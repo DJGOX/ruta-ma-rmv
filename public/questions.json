@@ -1,0 +1,4569 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-19",
+  "manualRevision": "April 2026",
+  "topics": [
+    {
+      "id": 1,
+      "es": "Tu permiso y el examen",
+      "en": "Your permit and the exam",
+      "icon": "license"
+    },
+    {
+      "id": 2,
+      "es": "Señales de tránsito",
+      "en": "Road signs",
+      "icon": "sign"
+    },
+    {
+      "id": 3,
+      "es": "Semáforos y marcas",
+      "en": "Signals and markings",
+      "icon": "signal"
+    },
+    {
+      "id": 4,
+      "es": "Prioridad y rotondas",
+      "en": "Right-of-way and rotaries",
+      "icon": "rotary"
+    },
+    {
+      "id": 5,
+      "es": "Velocidad y distancias",
+      "en": "Speed and distances",
+      "icon": "speed"
+    },
+    {
+      "id": 6,
+      "es": "Giros y autopistas",
+      "en": "Turns and highways",
+      "icon": "turn"
+    },
+    {
+      "id": 7,
+      "es": "Compartir la vía",
+      "en": "Sharing the road",
+      "icon": "people"
+    },
+    {
+      "id": 8,
+      "es": "Estacionamiento",
+      "en": "Parking",
+      "icon": "parking"
+    },
+    {
+      "id": 9,
+      "es": "Alcohol y sanciones",
+      "en": "Alcohol and penalties",
+      "icon": "shield"
+    },
+    {
+      "id": 10,
+      "es": "Clima y emergencias",
+      "en": "Weather and emergencies",
+      "icon": "weather"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": 1,
+      "es": "¿Qué clase corresponde a un automóvil particular como un Toyota RAV4?",
+      "en": "Which class covers a personal passenger vehicle such as a Toyota RAV4?",
+      "options": [
+        {
+          "es": "Class D",
+          "en": "Class D"
+        },
+        {
+          "es": "Class M",
+          "en": "Class M"
+        },
+        {
+          "es": "Class A",
+          "en": "Class A"
+        },
+        {
+          "es": "Class B",
+          "en": "Class B"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Class D es la clase para vehículos de pasajeros; la clasificación exacta también depende del peso y uso.",
+        "en": "Class D covers passenger vehicles; exact classification also depends on weight and use."
+      },
+      "source": "6-7"
+    },
+    {
+      "id": 2,
+      "topic": 1,
+      "es": "¿La Class D autoriza por sí sola a manejar motocicletas?",
+      "en": "Does Class D alone authorize motorcycle operation?",
+      "options": [
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "Solo de día",
+          "en": "Only by day"
+        },
+        {
+          "es": "No; corresponde Class M",
+          "en": "No; Class M applies"
+        },
+        {
+          "es": "Solo los domingos",
+          "en": "Only Sundays"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La motocicleta requiere la clasificación correspondiente Class M.",
+        "en": "A motorcycle requires the appropriate Class M classification."
+      },
+      "source": "6-7"
+    },
+    {
+      "id": 3,
+      "topic": 1,
+      "es": "¿Cuántas preguntas tiene el examen de conocimientos Class D?",
+      "en": "How many questions are on the Class D knowledge exam?",
+      "options": [
+        {
+          "es": "20",
+          "en": "20"
+        },
+        {
+          "es": "25",
+          "en": "25"
+        },
+        {
+          "es": "30",
+          "en": "30"
+        },
+        {
+          "es": "50",
+          "en": "50"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Son 25 preguntas de opción múltiple.",
+        "en": "There are 25 multiple-choice questions."
+      },
+      "source": "16"
+    },
+    {
+      "id": 4,
+      "topic": 1,
+      "es": "¿Cuántas respuestas correctas necesitas para aprobar?",
+      "en": "How many correct answers do you need to pass?",
+      "options": [
+        {
+          "es": "15 de 25",
+          "en": "15 of 25"
+        },
+        {
+          "es": "17 de 25",
+          "en": "17 of 25"
+        },
+        {
+          "es": "20 de 25",
+          "en": "20 of 25"
+        },
+        {
+          "es": "18 de 25",
+          "en": "18 of 25"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "18 de 25 equivalen al 72 %.",
+        "en": "18 out of 25 equals 72 percent."
+      },
+      "source": "16"
+    },
+    {
+      "id": 5,
+      "topic": 1,
+      "es": "¿Cuál es el tiempo ordinario del examen?",
+      "en": "What is the standard exam time limit?",
+      "options": [
+        {
+          "es": "25 minutos",
+          "en": "25 minutes"
+        },
+        {
+          "es": "45 minutos",
+          "en": "45 minutes"
+        },
+        {
+          "es": "60 minutos",
+          "en": "60 minutes"
+        },
+        {
+          "es": "Sin límite",
+          "en": "Unlimited"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El límite normal es de 25 minutos, también para la modalidad de audio.",
+        "en": "The standard limit is 25 minutes, including the audio version."
+      },
+      "source": "16-17"
+    },
+    {
+      "id": 6,
+      "topic": 1,
+      "es": "¿Puedes elegir español y escuchar las preguntas mediante la función de audio del RMV?",
+      "en": "Can you choose Spanish and hear questions through the RMV audio feature?",
+      "options": [
+        {
+          "es": "Solo con traductor",
+          "en": "Only with an interpreter"
+        },
+        {
+          "es": "Solo en inglés",
+          "en": "English only"
+        },
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo siendo menor",
+          "en": "Only if under 18"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "El manual incluye español y permite que cualquier solicitante elija audio; en el centro, lleva audífonos.",
+        "en": "The manual lists Spanish and lets any applicant choose audio; bring headphones to the service center."
+      },
+      "source": "17"
+    },
+    {
+      "id": 7,
+      "topic": 1,
+      "es": "Tienes 28 años y solo permiso de aprendizaje. ¿Puedes conducir solo?",
+      "en": "You are 28 and hold only a learner's permit. May you drive alone?",
+      "options": [
+        {
+          "es": "Sí, por tu edad",
+          "en": "Yes, because of your age"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo cerca de casa",
+          "en": "Only near home"
+        },
+        {
+          "es": "Solo de día",
+          "en": "Only by day"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La obligación de ir acompañado también se aplica al adulto con permiso Class D.",
+        "en": "The Class D permit supervision requirement also applies to adults."
+      },
+      "source": "18"
+    },
+    {
+      "id": 8,
+      "topic": 1,
+      "es": "¿Qué requisitos debe cumplir tu acompañante con permiso Class D?",
+      "en": "What qualifications must a Class D permit supervisor have?",
+      "options": [
+        {
+          "es": "18 años y licencia",
+          "en": "Age 18 and licensed"
+        },
+        {
+          "es": "Solo ser familiar",
+          "en": "Just be a relative"
+        },
+        {
+          "es": "21 años sin experiencia",
+          "en": "Age 21, no experience"
+        },
+        {
+          "es": "21 años o más, licencia válida y un año de experiencia",
+          "en": "At least 21, valid license, one year of experience"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Debe tener licencia de Massachusetts u otro estado y sentarse a tu lado.",
+        "en": "The supervisor must be licensed by Massachusetts or another state and sit beside you."
+      },
+      "source": "18"
+    },
+    {
+      "id": 9,
+      "topic": 1,
+      "es": "¿Dónde debe sentarse el acompañante que supervisa tu manejo?",
+      "en": "Where must your supervising driver sit?",
+      "options": [
+        {
+          "es": "En el asiento de pasajero junto a ti",
+          "en": "In the passenger seat beside you"
+        },
+        {
+          "es": "En cualquier asiento",
+          "en": "In any seat"
+        },
+        {
+          "es": "En otro vehículo",
+          "en": "In another vehicle"
+        },
+        {
+          "es": "En el asiento trasero",
+          "en": "In the back seat"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Supervisar desde atrás no cumple la condición del permiso.",
+        "en": "Supervising from the back does not satisfy the permit condition."
+      },
+      "source": "18"
+    },
+    {
+      "id": 10,
+      "topic": 1,
+      "es": "¿Qué debes llevar contigo cada vez que manejas con permiso?",
+      "en": "What must you carry whenever you drive with a permit?",
+      "options": [
+        {
+          "es": "Solo pasaporte",
+          "en": "Only a passport"
+        },
+        {
+          "es": "Solo comprobante de pago",
+          "en": "Only a receipt"
+        },
+        {
+          "es": "Tu permiso de aprendizaje",
+          "en": "Your learner's permit"
+        },
+        {
+          "es": "Solo una foto cualquiera",
+          "en": "Any photograph"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Debes portar el permiso mientras conduces hasta obtener la licencia.",
+        "en": "You must carry the permit while driving until licensed."
+      },
+      "source": "18"
+    },
+    {
+      "id": 11,
+      "topic": 1,
+      "es": "Con 28 años, ¿se exige el curso obligatorio para menores de 18 como condición por tu edad?",
+      "en": "At 28, is the mandatory under-18 driver education program required because of your age?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo si hablas español",
+          "en": "Only if you speak Spanish"
+        },
+        {
+          "es": "Solo para Class D",
+          "en": "Only for Class D"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Ese requisito por edad es para menores de 18. Las clases siguen siendo útiles para aprender.",
+        "en": "That age-based requirement applies to under-18 applicants. Lessons remain useful for learning."
+      },
+      "source": "19"
+    },
+    {
+      "id": 12,
+      "topic": 1,
+      "es": "¿Debes esperar los seis meses propios del programa JOL por tener 28 años?",
+      "en": "At 28, must you satisfy the JOL six-month permit holding period?",
+      "options": [
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "Solo en verano",
+          "en": "Only in summer"
+        },
+        {
+          "es": "Solo en Brookline",
+          "en": "Only in Brookline"
+        },
+        {
+          "es": "No; ese requisito corresponde a menores de 18",
+          "en": "No; that requirement applies to under-18 applicants"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Un adulto debe estar preparado y cumplir los demás requisitos, pero no tiene esa espera JOL por edad.",
+        "en": "An adult must be ready and meet other requirements, but does not have that age-based JOL waiting period."
+      },
+      "source": "9-10,19-20"
+    },
+    {
+      "id": 13,
+      "topic": 1,
+      "es": "¿Qué intervalo corresponde a un titular de Junior Operator License?",
+      "en": "What age range defines a Junior Operator License holder?",
+      "options": [
+        {
+          "es": "Desde 16 años y medio hasta antes de 18",
+          "en": "From 16½ until under 18"
+        },
+        {
+          "es": "De 18 a 21",
+          "en": "Ages 18-21"
+        },
+        {
+          "es": "Todos los principiantes",
+          "en": "All beginners"
+        },
+        {
+          "es": "Todos los menores de 25",
+          "en": "Everyone under 25"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "JOL es un régimen para conductores de 16 años y medio a menores de 18, no para todos los adultos nuevos.",
+        "en": "JOL applies from age 16½ to under 18, not to every new adult driver."
+      },
+      "source": "9"
+    },
+    {
+      "id": 14,
+      "topic": 1,
+      "es": "Un menor tiene permiso, no licencia JOL. ¿Cuándo exige padre o tutor autorizado por la restricción nocturna?",
+      "en": "A minor holds a permit, not a JOL. When does the nighttime restriction require a qualified parent or guardian?",
+      "options": [
+        {
+          "es": "10 p. m.-6 a. m.",
+          "en": "10 p. m.-6 a. m."
+        },
+        {
+          "es": "11 p. m.-7 a. m.",
+          "en": "11 p. m.-7 a. m."
+        },
+        {
+          "es": "12 a. m.-5 a. m.",
+          "en": "12 a. m.-5 a. m."
+        },
+        {
+          "es": "12:30 a. m.-5 a. m.",
+          "en": "12:30 a. m.-5 a. m."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Con permiso y menos de 18, la franja empieza a medianoche. Con licencia JOL empieza a las 12:30 a. m.",
+        "en": "For an under-18 permit holder it starts at midnight; for a JOL holder it starts at 12:30 a.m."
+      },
+      "source": "10-11,18"
+    },
+    {
+      "id": 15,
+      "topic": 1,
+      "es": "¿Puedes consultar esta guía durante el examen real?",
+      "en": "May you consult this guide during the actual exam?",
+      "options": [
+        {
+          "es": "Sí, si es PDF",
+          "en": "Yes, if it is a PDF"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, por voz",
+          "en": "Yes, by voice"
+        },
+        {
+          "es": "Solo las señales",
+          "en": "Only the signs"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "El RMV prohíbe manuales, material de consulta y asistencia electrónica no autorizada durante el examen.",
+        "en": "The RMV prohibits reference materials and unauthorized electronic assistance during the exam."
+      },
+      "source": "16"
+    },
+    {
+      "id": 16,
+      "topic": 2,
+      "es": "¿Qué significa una señal roja de ocho lados?",
+      "en": "What does a red eight-sided sign mean?",
+      "options": [
+        {
+          "es": "STOP: detenerse totalmente",
+          "en": "STOP: come to a complete stop"
+        },
+        {
+          "es": "Solo reducir velocidad",
+          "en": "Only slow down"
+        },
+        {
+          "es": "Zona escolar",
+          "en": "School zone"
+        },
+        {
+          "es": "No estacionar",
+          "en": "No parking"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El octágono identifica STOP. Cada vehículo debe hacer su propia parada completa.",
+        "en": "The octagon identifies STOP. Each vehicle must make its own complete stop."
+      },
+      "source": "85-86"
+    },
+    {
+      "id": 17,
+      "topic": 2,
+      "es": "¿Qué significa un triángulo invertido rojo y blanco con YIELD?",
+      "en": "What does an inverted red-and-white YIELD triangle mean?",
+      "options": [
+        {
+          "es": "Acelerar",
+          "en": "Speed up"
+        },
+        {
+          "es": "Siempre estacionar",
+          "en": "Always park"
+        },
+        {
+          "es": "Ceder el paso; parar si hace falta",
+          "en": "Yield; stop if needed"
+        },
+        {
+          "es": "Vía cerrada",
+          "en": "Road closed"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Reduce la velocidad y deja pasar a quienes tengan prioridad. Detente si las condiciones lo requieren.",
+        "en": "Slow down and let priority traffic proceed. Stop if conditions require it."
+      },
+      "source": "86"
+    },
+    {
+      "id": 18,
+      "topic": 2,
+      "es": "¿Qué suele advertir una señal amarilla en forma de rombo?",
+      "en": "What does a yellow diamond-shaped sign usually indicate?",
+      "options": [
+        {
+          "es": "Precio de peaje",
+          "en": "Toll price"
+        },
+        {
+          "es": "Peligro o cambio de condiciones",
+          "en": "A hazard or change in conditions"
+        },
+        {
+          "es": "Permiso para estacionar",
+          "en": "Parking permission"
+        },
+        {
+          "es": "Fin de todas las reglas",
+          "en": "End of all rules"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Las señales amarillas de advertencia avisan de riesgos o cambios más adelante.",
+        "en": "Yellow warning signs announce hazards or changes ahead."
+      },
+      "source": "83-86"
+    },
+    {
+      "id": 19,
+      "topic": 2,
+      "es": "¿Qué suele indicar una señal de cinco lados con figuras de escolares?",
+      "en": "What does a five-sided sign with schoolchildren usually indicate?",
+      "options": [
+        {
+          "es": "Hospital",
+          "en": "Hospital"
+        },
+        {
+          "es": "Aeropuerto",
+          "en": "Airport"
+        },
+        {
+          "es": "Solo camiones",
+          "en": "Trucks only"
+        },
+        {
+          "es": "Escuela o cruce escolar",
+          "en": "School area or crossing"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "La forma pentagonal se asocia con advertencias escolares.",
+        "en": "The pentagon is associated with school warnings."
+      },
+      "source": "85"
+    },
+    {
+      "id": 20,
+      "topic": 2,
+      "es": "¿Qué suele anunciar una señal circular amarilla con una X y dos R?",
+      "en": "What does a round yellow sign with an X and two Rs usually announce?",
+      "options": [
+        {
+          "es": "Cruce ferroviario próximo",
+          "en": "Railroad crossing ahead"
+        },
+        {
+          "es": "Rotonda obligatoria",
+          "en": "Mandatory rotary"
+        },
+        {
+          "es": "Calle sin salida",
+          "en": "Dead end"
+        },
+        {
+          "es": "Gasolinera",
+          "en": "Gas station"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Es una advertencia anticipada del ferrocarril. Reduce la velocidad y busca trenes.",
+        "en": "It is an advance railroad warning. Slow down and watch for trains."
+      },
+      "source": "85-87"
+    },
+    {
+      "id": 21,
+      "topic": 2,
+      "es": "¿Qué identifica la cruz blanca llamada crossbuck?",
+      "en": "What does the white crossbuck identify?",
+      "options": [
+        {
+          "es": "Parqueo permitido",
+          "en": "Parking allowed"
+        },
+        {
+          "es": "Hospital",
+          "en": "Hospital"
+        },
+        {
+          "es": "El lugar del cruce ferroviario",
+          "en": "The railroad crossing location"
+        },
+        {
+          "es": "Una vía de buses",
+          "en": "A bus lane"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La cruz está en el punto donde las vías del tren cruzan la carretera.",
+        "en": "The crossbuck marks where railroad tracks cross the road."
+      },
+      "source": "86"
+    },
+    {
+      "id": 22,
+      "topic": 2,
+      "es": "¿Qué indica DO NOT ENTER?",
+      "en": "What does DO NOT ENTER mean?",
+      "options": [
+        {
+          "es": "Entrar despacio",
+          "en": "Enter slowly"
+        },
+        {
+          "es": "No ingresar desde esa dirección",
+          "en": "Do not enter from that direction"
+        },
+        {
+          "es": "Ceder solo a camiones",
+          "en": "Yield only to trucks"
+        },
+        {
+          "es": "Entrada de estacionamiento",
+          "en": "Parking entrance"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Prohíbe ingresar por ese acceso; podrías entrar contra el tránsito.",
+        "en": "It prohibits entry at that access; you could enter against traffic."
+      },
+      "source": "84-86"
+    },
+    {
+      "id": 23,
+      "topic": 2,
+      "es": "¿Qué te dice WRONG WAY?",
+      "en": "What does WRONG WAY tell you?",
+      "options": [
+        {
+          "es": "Que cambies de radio",
+          "en": "Change radio stations"
+        },
+        {
+          "es": "Que falta una salida",
+          "en": "An exit is missing"
+        },
+        {
+          "es": "Que puedes adelantar",
+          "en": "You may pass"
+        },
+        {
+          "es": "Que vas en sentido contrario",
+          "en": "You are traveling against traffic"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Reconoce el peligro y corrige la situación de forma segura; no continúes contra el tránsito.",
+        "en": "Recognize the danger and correct it safely; do not keep driving against traffic."
+      },
+      "source": "84"
+    },
+    {
+      "id": 24,
+      "topic": 2,
+      "es": "¿Qué significa un círculo rojo con una línea diagonal sobre una maniobra?",
+      "en": "What does a red circle and diagonal slash over a maneuver mean?",
+      "options": [
+        {
+          "es": "Esa maniobra está prohibida",
+          "en": "That maneuver is prohibited"
+        },
+        {
+          "es": "Es obligatoria",
+          "en": "It is required"
+        },
+        {
+          "es": "Es recomendada",
+          "en": "It is recommended"
+        },
+        {
+          "es": "Se permite de noche",
+          "en": "It is allowed at night"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Por ejemplo, la flecha de retorno tachada significa NO U-TURN.",
+        "en": "For example, a crossed-out U-turn arrow means NO U-TURN."
+      },
+      "source": "86"
+    },
+    {
+      "id": 25,
+      "topic": 2,
+      "es": "¿Qué suelen indicar las señales naranjas?",
+      "en": "What do orange signs usually indicate?",
+      "options": [
+        {
+          "es": "Playas",
+          "en": "Beaches"
+        },
+        {
+          "es": "Servicios médicos",
+          "en": "Medical services"
+        },
+        {
+          "es": "Obras o mantenimiento vial",
+          "en": "Roadwork or maintenance"
+        },
+        {
+          "es": "Permiso de alta velocidad",
+          "en": "Permission to speed"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Anticipa trabajadores, cambios de carril y equipo de construcción.",
+        "en": "Expect workers, lane changes, and construction equipment."
+      },
+      "source": "83-88"
+    },
+    {
+      "id": 26,
+      "topic": 2,
+      "es": "¿Qué información dan normalmente las señales verdes?",
+      "en": "What information do green signs normally provide?",
+      "options": [
+        {
+          "es": "Multas",
+          "en": "Fines"
+        },
+        {
+          "es": "Direcciones y destinos",
+          "en": "Directions and destinations"
+        },
+        {
+          "es": "Obligación de parar",
+          "en": "A stop requirement"
+        },
+        {
+          "es": "Solo advertencias escolares",
+          "en": "Only school warnings"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Son señales de orientación, como destinos, salidas y distancias.",
+        "en": "They are guide signs for destinations, exits, and distances."
+      },
+      "source": "86"
+    },
+    {
+      "id": 27,
+      "topic": 2,
+      "es": "¿Qué suelen indicar las señales azules?",
+      "en": "What do blue signs usually identify?",
+      "options": [
+        {
+          "es": "Hielo",
+          "en": "Ice"
+        },
+        {
+          "es": "Prohibiciones",
+          "en": "Prohibitions"
+        },
+        {
+          "es": "Calle cerrada",
+          "en": "Road closed"
+        },
+        {
+          "es": "Servicios como combustible, comida u hospedaje",
+          "en": "Services such as fuel, food, or lodging"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "El azul se usa para servicios al conductor.",
+        "en": "Blue is used for motorist services."
+      },
+      "source": "86"
+    },
+    {
+      "id": 28,
+      "topic": 2,
+      "es": "¿Qué suelen indicar las señales marrones?",
+      "en": "What do brown signs usually identify?",
+      "options": [
+        {
+          "es": "Parques y lugares recreativos o de interés",
+          "en": "Parks, recreation, or points of interest"
+        },
+        {
+          "es": "Velocidad máxima",
+          "en": "Maximum speed"
+        },
+        {
+          "es": "Prioridad absoluta",
+          "en": "Absolute priority"
+        },
+        {
+          "es": "Cruce ferroviario",
+          "en": "Railroad crossing"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El marrón orienta hacia áreas recreativas y sitios de interés.",
+        "en": "Brown guides drivers to recreation areas and points of interest."
+      },
+      "source": "86"
+    },
+    {
+      "id": 29,
+      "topic": 2,
+      "es": "¿Qué debes hacer ante una señal NO TURN ON RED?",
+      "en": "What must you do at a NO TURN ON RED sign?",
+      "options": [
+        {
+          "es": "Girar si nadie mira",
+          "en": "Turn if nobody is watching"
+        },
+        {
+          "es": "Solo tocar bocina",
+          "en": "Just honk"
+        },
+        {
+          "es": "Esperar una indicación que permita girar",
+          "en": "Wait for a signal permitting the turn"
+        },
+        {
+          "es": "Girar tras dos segundos",
+          "en": "Turn after two seconds"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La señal prohíbe girar mientras la luz está roja, aunque hayas parado y no veas tráfico.",
+        "en": "The sign prohibits turning while the light is red, even after stopping on an empty road."
+      },
+      "source": "81,98"
+    },
+    {
+      "id": 30,
+      "topic": 2,
+      "es": "¿Qué significa una señal triangular lateral que dice NO PASSING ZONE?",
+      "en": "What does a sideways pennant reading NO PASSING ZONE mean?",
+      "options": [
+        {
+          "es": "Carril de buses",
+          "en": "Bus lane"
+        },
+        {
+          "es": "Zona donde no se debe adelantar",
+          "en": "No-passing area"
+        },
+        {
+          "es": "Parada opcional",
+          "en": "Optional stop"
+        },
+        {
+          "es": "Estacionamiento libre",
+          "en": "Free parking"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "El banderín advierte del inicio de una zona de adelantamiento prohibido.",
+        "en": "The pennant warns of a no-passing zone."
+      },
+      "source": "85"
+    },
+    {
+      "id": 31,
+      "topic": 3,
+      "es": "¿Qué exige una luz roja circular fija?",
+      "en": "What does a steady circular red light require?",
+      "options": [
+        {
+          "es": "Reducir a 10 mph",
+          "en": "Slow to 10 mph"
+        },
+        {
+          "es": "Solo mirar",
+          "en": "Just look"
+        },
+        {
+          "es": "Detenerse completamente",
+          "en": "Come to a complete stop"
+        },
+        {
+          "es": "Acelerar",
+          "en": "Speed up"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Detente antes de la línea o cruce. Un giro permitido en rojo requiere parar y ceder primero.",
+        "en": "Stop before the line or crossing. A permitted turn on red requires stopping and yielding first."
+      },
+      "source": "81"
+    },
+    {
+      "id": 32,
+      "topic": 3,
+      "es": "¿Cuándo puedes girar a la derecha con luz roja?",
+      "en": "When may you turn right on red?",
+      "options": [
+        {
+          "es": "Sin detenerte",
+          "en": "Without stopping"
+        },
+        {
+          "es": "Después de parar y ceder, si no está prohibido",
+          "en": "After stopping and yielding, if not prohibited"
+        },
+        {
+          "es": "Solo siguiendo a otro",
+          "en": "Only behind another vehicle"
+        },
+        {
+          "es": "Siempre, incluso con peatones",
+          "en": "Always, even with pedestrians"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Comprueba señales, peatones, bicicletas y vehículos antes del giro.",
+        "en": "Check signs, pedestrians, bicycles, and vehicles before turning."
+      },
+      "source": "81,98"
+    },
+    {
+      "id": 33,
+      "topic": 3,
+      "es": "¿Cuándo permite Massachusetts girar a la izquierda en rojo?",
+      "en": "When does Massachusetts permit a left turn on red?",
+      "options": [
+        {
+          "es": "De cualquier calle",
+          "en": "From any street"
+        },
+        {
+          "es": "Solo desde doble sentido",
+          "en": "Only from a two-way street"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        },
+        {
+          "es": "De una calle de un sentido a otra de un sentido, tras parar y ceder, sin prohibición",
+          "en": "One-way to one-way, after stopping and yielding, if not prohibited"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Ambas calles deben ser de un solo sentido y el giro debe poder hacerse legalmente y con seguridad.",
+        "en": "Both streets must be one-way, and the turn must be legal and safe."
+      },
+      "source": "81,98"
+    },
+    {
+      "id": 34,
+      "topic": 3,
+      "es": "¿Qué significa una luz roja intermitente?",
+      "en": "What does a flashing red light mean?",
+      "options": [
+        {
+          "es": "Parar como en STOP y seguir cuando sea seguro",
+          "en": "Stop as at STOP, then proceed when safe"
+        },
+        {
+          "es": "Seguir sin parar",
+          "en": "Proceed without stopping"
+        },
+        {
+          "es": "Solo ceder a buses",
+          "en": "Yield only to buses"
+        },
+        {
+          "es": "El semáforo no cuenta",
+          "en": "The signal does not count"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "La parada es completa y después se aplican las reglas de prioridad.",
+        "en": "A complete stop is required, followed by right-of-way rules."
+      },
+      "source": "81"
+    },
+    {
+      "id": 35,
+      "topic": 3,
+      "es": "¿Qué significa una luz amarilla intermitente?",
+      "en": "What does a flashing yellow light mean?",
+      "options": [
+        {
+          "es": "Parar y apagar motor",
+          "en": "Stop and shut off the engine"
+        },
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        },
+        {
+          "es": "Avanzar con precaución",
+          "en": "Proceed with caution"
+        },
+        {
+          "es": "Cruce cerrado",
+          "en": "Crossing closed"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Advierte de un riesgo. Observa ambos lados y controla la velocidad.",
+        "en": "It warns of a hazard. Look both ways and control your speed."
+      },
+      "source": "81"
+    },
+    {
+      "id": 36,
+      "topic": 3,
+      "es": "¿Cómo trata Massachusetts una flecha roja fija?",
+      "en": "How does Massachusetts treat a steady red arrow?",
+      "options": [
+        {
+          "es": "Siempre prohíbe cualquier giro en todo caso",
+          "en": "Always bans every turn without exception"
+        },
+        {
+          "es": "Como rojo circular para esa dirección, con las mismas reglas de giro en rojo",
+          "en": "Like circular red for that direction, with the same turn-on-red rules"
+        },
+        {
+          "es": "Como flecha verde",
+          "en": "Like a green arrow"
+        },
+        {
+          "es": "Como amarillo intermitente",
+          "en": "Like flashing yellow"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La regla es particular de Massachusetts. Para un giro permitido debes parar, ceder y respetar NO TURN ON RED.",
+        "en": "This is Massachusetts-specific. A permitted turn still requires stopping, yielding, and obeying NO TURN ON RED."
+      },
+      "source": "81"
+    },
+    {
+      "id": 37,
+      "topic": 3,
+      "es": "Aparece amarillo fijo y puedes parar con seguridad. ¿Qué haces?",
+      "en": "A steady yellow appears and you can stop safely. What do you do?",
+      "options": [
+        {
+          "es": "Acelerar para ganarle",
+          "en": "Speed up to beat it"
+        },
+        {
+          "es": "Cambiar de carril",
+          "en": "Change lanes"
+        },
+        {
+          "es": "Tocar bocina",
+          "en": "Honk"
+        },
+        {
+          "es": "Parar",
+          "en": "Stop"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "El amarillo anuncia el rojo. No es una orden para acelerar.",
+        "en": "Yellow announces red. It is not an instruction to accelerate."
+      },
+      "source": "81"
+    },
+    {
+      "id": 38,
+      "topic": 3,
+      "es": "Tienes verde pero hay peatones en tu trayectoria. ¿Qué haces?",
+      "en": "You have green but pedestrians are in your path. What do you do?",
+      "options": [
+        {
+          "es": "Cederles el paso",
+          "en": "Yield to them"
+        },
+        {
+          "es": "Tocar bocina y pasar",
+          "en": "Honk and proceed"
+        },
+        {
+          "es": "Pasar entre ellos",
+          "en": "Drive between them"
+        },
+        {
+          "es": "Exigir que corran",
+          "en": "Make them run"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El verde no elimina la obligación de ceder a quienes están cruzando.",
+        "en": "Green does not remove the duty to yield to people crossing."
+      },
+      "source": "81-83"
+    },
+    {
+      "id": 39,
+      "topic": 3,
+      "es": "¿Qué significa una flecha amarilla intermitente para girar?",
+      "en": "What does a flashing yellow turn arrow mean?",
+      "options": [
+        {
+          "es": "Giro protegido sin mirar",
+          "en": "Protected turn without looking"
+        },
+        {
+          "es": "No existe en MA",
+          "en": "It is not used in MA"
+        },
+        {
+          "es": "Puedes girar tras ceder y encontrar un espacio seguro",
+          "en": "You may turn after yielding and finding a safe gap"
+        },
+        {
+          "es": "Debes girar inmediatamente",
+          "en": "You must turn immediately"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "El tránsito contrario puede tener verde. Cede también a peatones y ciclistas.",
+        "en": "Opposing traffic may have green. Yield to pedestrians and bicyclists too."
+      },
+      "source": "81"
+    },
+    {
+      "id": 40,
+      "topic": 3,
+      "es": "El semáforo está totalmente apagado. ¿Cómo actúas?",
+      "en": "The traffic signal is completely dark. What do you do?",
+      "options": [
+        {
+          "es": "Pasar primero por tamaño",
+          "en": "Go first based on vehicle size"
+        },
+        {
+          "es": "Tratarlo como STOP en todas las direcciones",
+          "en": "Treat it as an all-way stop"
+        },
+        {
+          "es": "Seguir a velocidad normal",
+          "en": "Maintain normal speed"
+        },
+        {
+          "es": "Solo mirar a la izquierda",
+          "en": "Look left only"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Para, observa y aplica la prioridad como en una intersección con STOP en todos los accesos.",
+        "en": "Stop, look, and apply all-way-stop priority rules."
+      },
+      "source": "82"
+    },
+    {
+      "id": 41,
+      "topic": 3,
+      "es": "¿Qué separan normalmente las líneas blancas entre carriles?",
+      "en": "What do white lane lines normally separate?",
+      "options": [
+        {
+          "es": "Tránsito opuesto",
+          "en": "Opposing traffic"
+        },
+        {
+          "es": "Solo estacionamientos",
+          "en": "Only parking spaces"
+        },
+        {
+          "es": "Trenes y autos",
+          "en": "Trains and cars"
+        },
+        {
+          "es": "Tránsito en el mismo sentido",
+          "en": "Traffic moving in the same direction"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Las líneas amarillas separan normalmente sentidos opuestos.",
+        "en": "Yellow lines normally separate opposing directions."
+      },
+      "source": "89-90"
+    },
+    {
+      "id": 42,
+      "topic": 3,
+      "es": "¿Puedes cruzar una línea blanca discontinua para cambiar de carril?",
+      "en": "May you cross a broken white line to change lanes?",
+      "options": [
+        {
+          "es": "Sí, señalizando y si es seguro",
+          "en": "Yes, after signaling and when safe"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        },
+        {
+          "es": "Sin mirar",
+          "en": "Without looking"
+        },
+        {
+          "es": "Solo con bocina",
+          "en": "Only with the horn"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Revisa espejos y punto ciego antes de moverte.",
+        "en": "Check mirrors and your blind spot before moving."
+      },
+      "source": "89,93-94"
+    },
+    {
+      "id": 43,
+      "topic": 3,
+      "es": "¿Qué significa una doble línea blanca continua?",
+      "en": "What does a double solid white line mean?",
+      "options": [
+        {
+          "es": "Cambio de carril recomendado",
+          "en": "Lane change recommended"
+        },
+        {
+          "es": "Estacionar encima",
+          "en": "Park on it"
+        },
+        {
+          "es": "No está permitido cruzarla",
+          "en": "Crossing is not allowed"
+        },
+        {
+          "es": "Solo para motos",
+          "en": "Motorcycles only"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Separa carriles del mismo sentido donde no se permite cruzar.",
+        "en": "It separates same-direction lanes where crossing is prohibited."
+      },
+      "source": "90"
+    },
+    {
+      "id": 44,
+      "topic": 3,
+      "es": "Hay una amarilla continua junto a ti y una discontinua del otro lado. ¿Puedes cruzar para adelantar un auto?",
+      "en": "A solid yellow is on your side and a broken yellow on the other. May you cross to pass a car?",
+      "options": [
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo a 20 mph",
+          "en": "Only at 20 mph"
+        },
+        {
+          "es": "Solo si el auto es lento",
+          "en": "Only if the car is slow"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Tu lado está controlado por la línea continua.",
+        "en": "The solid line controls your side."
+      },
+      "source": "90"
+    },
+    {
+      "id": 45,
+      "topic": 3,
+      "es": "¿Qué indica un diamante blanco pintado en un carril?",
+      "en": "What does a white diamond painted in a lane indicate?",
+      "options": [
+        {
+          "es": "Fin de autopista",
+          "en": "End of highway"
+        },
+        {
+          "es": "Estacionamiento",
+          "en": "Parking"
+        },
+        {
+          "es": "Adelantamiento libre",
+          "en": "Unrestricted passing"
+        },
+        {
+          "es": "Una restricción especial, como HOV o buses",
+          "en": "A special restriction, such as HOV or buses"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Lee las señales para saber usuarios, horarios y ocupación exigida.",
+        "en": "Read signs for authorized users, hours, and occupancy requirements."
+      },
+      "source": "90-91"
+    },
+    {
+      "id": 46,
+      "topic": 4,
+      "es": "Llegas a un STOP. ¿Dónde debes detenerte si hay línea blanca de parada?",
+      "en": "You approach STOP. Where must you stop if a white stop line is present?",
+      "options": [
+        {
+          "es": "Después del cruce",
+          "en": "Beyond the crossing"
+        },
+        {
+          "es": "Antes de la línea",
+          "en": "Before the line"
+        },
+        {
+          "es": "Sobre la línea",
+          "en": "On the line"
+        },
+        {
+          "es": "En mitad de la intersección",
+          "en": "In the intersection"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "No invadas la línea ni el espacio peatonal. Luego avanza solo cuando sea seguro.",
+        "en": "Do not occupy the line or pedestrian space. Proceed only when safe."
+      },
+      "source": "86,91-92"
+    },
+    {
+      "id": 47,
+      "topic": 4,
+      "es": "Dos autos paran simultáneamente en un STOP de cuatro vías. El otro está a tu derecha. ¿Quién pasa primero?",
+      "en": "Two cars stop simultaneously at an all-way stop. The other is on your right. Who goes first?",
+      "options": [
+        {
+          "es": "Tú por llegar con más velocidad",
+          "en": "You, for arriving faster"
+        },
+        {
+          "es": "El más grande",
+          "en": "The larger one"
+        },
+        {
+          "es": "El otro conductor",
+          "en": "The other driver"
+        },
+        {
+          "es": "El que toca bocina",
+          "en": "Whoever honks"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "En empate debes ceder al vehículo de tu derecha.",
+        "en": "When arrival is simultaneous, yield to the vehicle on your right."
+      },
+      "source": "100"
+    },
+    {
+      "id": 48,
+      "topic": 4,
+      "es": "Otro auto paró completamente antes que tú en un STOP de cuatro vías. ¿Qué haces?",
+      "en": "Another car stopped before you at an all-way stop. What do you do?",
+      "options": [
+        {
+          "es": "Dejarlo pasar primero",
+          "en": "Let it go first"
+        },
+        {
+          "es": "Pasar tú por la izquierda",
+          "en": "Pass it on the left"
+        },
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        },
+        {
+          "es": "Ignorarlo si es pequeño",
+          "en": "Ignore it if small"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El orden se basa en quién se detuvo primero; no en quién acelera primero.",
+        "en": "Order depends on who stopped first, not who accelerates first."
+      },
+      "source": "100"
+    },
+    {
+      "id": 49,
+      "topic": 4,
+      "es": "En una intersección sin señales se acerca un vehículo por tu derecha. ¿Qué haces?",
+      "en": "At an uncontrolled intersection, a vehicle approaches from your right. What do you do?",
+      "options": [
+        {
+          "es": "Pasar sin mirar",
+          "en": "Proceed without looking"
+        },
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        },
+        {
+          "es": "Tocar bocina",
+          "en": "Honk"
+        },
+        {
+          "es": "Cederle el paso",
+          "en": "Yield to it"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Reduce velocidad y cede al tránsito de tu derecha.",
+        "en": "Slow down and yield to traffic on your right."
+      },
+      "source": "100"
+    },
+    {
+      "id": 50,
+      "topic": 4,
+      "es": "Giras a la izquierda con verde circular. ¿A quién debes ceder?",
+      "en": "You turn left on circular green. To whom must you yield?",
+      "options": [
+        {
+          "es": "Solo a camiones",
+          "en": "Only to trucks"
+        },
+        {
+          "es": "Al tránsito contrario y a peatones o ciclistas en tu trayectoria",
+          "en": "To oncoming traffic and pedestrians or bicyclists in your path"
+        },
+        {
+          "es": "A nadie",
+          "en": "Nobody"
+        },
+        {
+          "es": "Solo a vehículos detrás",
+          "en": "Only vehicles behind"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La luz verde circular no ofrece un giro izquierdo protegido.",
+        "en": "Circular green does not provide a protected left turn."
+      },
+      "source": "81-82,100"
+    },
+    {
+      "id": 51,
+      "topic": 4,
+      "es": "Sales de un driveway hacia la calle. ¿Qué debes hacer?",
+      "en": "You leave a driveway for the street. What must you do?",
+      "options": [
+        {
+          "es": "Acelerar sin parar",
+          "en": "Accelerate without stopping"
+        },
+        {
+          "es": "Exigir que te cedan",
+          "en": "Require others to yield"
+        },
+        {
+          "es": "Parar y ceder a peatones, bicicletas y vehículos",
+          "en": "Stop and yield to pedestrians, bicycles, and vehicles"
+        },
+        {
+          "es": "Solo usar bocina",
+          "en": "Just honk"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Quien entra desde un acceso privado debe ceder al tránsito de la vía.",
+        "en": "A driver entering from private access must yield to roadway traffic."
+      },
+      "source": "100"
+    },
+    {
+      "id": 52,
+      "topic": 4,
+      "es": "La salida de la intersección está bloqueada aunque tienes verde. ¿Entras?",
+      "en": "The far side of the intersection is blocked although you have green. Do you enter?",
+      "options": [
+        {
+          "es": "No, espera espacio para cruzar completamente",
+          "en": "No, wait for room to clear it"
+        },
+        {
+          "es": "Sí, porque tienes verde",
+          "en": "Yes, because you have green"
+        },
+        {
+          "es": "Sí, si usas intermitentes",
+          "en": "Yes, with hazard lights"
+        },
+        {
+          "es": "Solo hasta el cruce peatonal",
+          "en": "Only into the crosswalk"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "No puedes bloquear una intersección ni un cruce peatonal.",
+        "en": "You may not block an intersection or crosswalk."
+      },
+      "source": "81,96"
+    },
+    {
+      "id": 53,
+      "topic": 4,
+      "es": "Un conductor te hace una seña para girar entre autos detenidos. ¿Qué decides?",
+      "en": "A driver waves you through stopped cars to turn. What decides your action?",
+      "options": [
+        {
+          "es": "La seña basta",
+          "en": "The wave is enough"
+        },
+        {
+          "es": "El tamaño de tu auto",
+          "en": "Your car's size"
+        },
+        {
+          "es": "Tu prisa",
+          "en": "How rushed you are"
+        },
+        {
+          "es": "La visibilidad, el tránsito y la prioridad",
+          "en": "Visibility, traffic, and right-of-way"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Una seña de cortesía no garantiza que todos los carriles estén libres.",
+        "en": "A courtesy wave does not guarantee every lane is clear."
+      },
+      "source": "102"
+    },
+    {
+      "id": 54,
+      "topic": 4,
+      "es": "Al entrar a una rotonda, ¿a quién cedes?",
+      "en": "When entering a rotary, to whom do you yield?",
+      "options": [
+        {
+          "es": "Solo a quien viene detrás",
+          "en": "Only to traffic behind"
+        },
+        {
+          "es": "A vehículos ya dentro y a peatones",
+          "en": "To vehicles already inside and to pedestrians"
+        },
+        {
+          "es": "Solo a taxis",
+          "en": "Only to taxis"
+        },
+        {
+          "es": "A nadie",
+          "en": "Nobody"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "El tránsito que ya circula tiene prioridad, salvo indicación distinta de señales o un agente.",
+        "en": "Circulating traffic has priority unless signs or an officer direct otherwise."
+      },
+      "source": "101"
+    },
+    {
+      "id": 55,
+      "topic": 4,
+      "es": "¿En qué sentido circula normalmente el tránsito en una rotonda de Massachusetts?",
+      "en": "In what direction does traffic normally circulate in a Massachusetts rotary?",
+      "options": [
+        {
+          "es": "Horario",
+          "en": "Clockwise"
+        },
+        {
+          "es": "En ambos sentidos",
+          "en": "Both directions"
+        },
+        {
+          "es": "Antihorario",
+          "en": "Counterclockwise"
+        },
+        {
+          "es": "Según el día",
+          "en": "Depends on the day"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Circulas alrededor de la isla central en sentido contrario al reloj.",
+        "en": "Travel around the central island counterclockwise."
+      },
+      "source": "101"
+    },
+    {
+      "id": 56,
+      "topic": 4,
+      "es": "¿Qué direccional debes usar al salir de una rotonda?",
+      "en": "Which turn signal should you use when exiting a rotary?",
+      "options": [
+        {
+          "es": "La derecha",
+          "en": "Right"
+        },
+        {
+          "es": "La izquierda",
+          "en": "Left"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        },
+        {
+          "es": "Ambas siempre",
+          "en": "Both, always"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Avisa con la direccional derecha antes de salir con seguridad.",
+        "en": "Signal right before safely exiting."
+      },
+      "source": "101"
+    },
+    {
+      "id": 57,
+      "topic": 4,
+      "es": "Te pasaste de salida en una rotonda. ¿Qué haces?",
+      "en": "You missed your rotary exit. What do you do?",
+      "options": [
+        {
+          "es": "Retroceder",
+          "en": "Reverse"
+        },
+        {
+          "es": "Detenerte en el carril",
+          "en": "Stop in the lane"
+        },
+        {
+          "es": "Cortar todos los carriles",
+          "en": "Cut across all lanes"
+        },
+        {
+          "es": "Seguir y volver a dar la vuelta si es seguro",
+          "en": "Continue around again if safe"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "No pares ni retrocedas; busca una salida segura respetando carriles y señales.",
+        "en": "Do not stop or reverse; find a safe exit while respecting lanes and signs."
+      },
+      "source": "101-102"
+    },
+    {
+      "id": 58,
+      "topic": 4,
+      "es": "Un agente te indica parar aunque el semáforo está verde. ¿Qué obedeces?",
+      "en": "An officer tells you to stop although the light is green. What do you obey?",
+      "options": [
+        {
+          "es": "El verde",
+          "en": "The green light"
+        },
+        {
+          "es": "La indicación del agente",
+          "en": "The officer's direction"
+        },
+        {
+          "es": "Al auto de atrás",
+          "en": "The car behind"
+        },
+        {
+          "es": "Tu GPS",
+          "en": "Your GPS"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Las instrucciones del agente prevalecen sobre señales y marcas viales.",
+        "en": "An officer's directions override signals, signs, and pavement markings."
+      },
+      "source": "87"
+    },
+    {
+      "id": 59,
+      "topic": 4,
+      "es": "Tu semáforo cambia a verde pero una persona sigue cruzando. ¿Debes esperar?",
+      "en": "Your light turns green but a person is still crossing. Must you wait?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo si corre",
+          "en": "Only if running"
+        },
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo si te mira",
+          "en": "Only if looking at you"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Debes permitir que termine de cruzar; no tiene que desaparecer al cambiar la señal.",
+        "en": "Let the pedestrian finish crossing; a signal change does not remove that protection."
+      },
+      "source": "82-83,99"
+    },
+    {
+      "id": 60,
+      "topic": 4,
+      "es": "Otro conductor no te cede cuando debería. ¿Qué haces para evitar un choque?",
+      "en": "Another driver fails to yield as required. What should you do to avoid a crash?",
+      "options": [
+        {
+          "es": "Ceder y evitar el conflicto",
+          "en": "Yield and avoid conflict"
+        },
+        {
+          "es": "Imponer tu prioridad",
+          "en": "Force your priority"
+        },
+        {
+          "es": "Acelerar hacia él",
+          "en": "Accelerate toward it"
+        },
+        {
+          "es": "Cerrar el paso",
+          "en": "Block it"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "La prioridad se concede; no debe imponerse a costa de una colisión.",
+        "en": "Right-of-way is given; do not enforce it by risking a collision."
+      },
+      "source": "99"
+    },
+    {
+      "id": 61,
+      "topic": 5,
+      "es": "¿Debes manejar siempre al máximo indicado si está lloviendo fuerte?",
+      "en": "Must you always drive at the posted maximum in heavy rain?",
+      "options": [
+        {
+          "es": "No; reduce a una velocidad segura",
+          "en": "No; reduce to a safe speed"
+        },
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo si hay policía",
+          "en": "Only if police are present"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El límite supone buenas condiciones. Aun por debajo puedes ir demasiado rápido para el clima.",
+        "en": "Limits assume good conditions. You can still be too fast for the weather below the limit."
+      },
+      "source": "79-80"
+    },
+    {
+      "id": 62,
+      "topic": 5,
+      "es": "¿Cuál es el límite ordinario de una zona escolar según el manual?",
+      "en": "What is the manual's standard school-zone speed limit?",
+      "options": [
+        {
+          "es": "35 mph",
+          "en": "35 mph"
+        },
+        {
+          "es": "30 mph",
+          "en": "30 mph"
+        },
+        {
+          "es": "20 mph",
+          "en": "20 mph"
+        },
+        {
+          "es": "45 mph",
+          "en": "45 mph"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Revisa cuándo está activa la zona: las señales pueden indicar horas o luces intermitentes.",
+        "en": "Check when the zone is active: signs may specify hours or flashing lights."
+      },
+      "source": "79-80"
+    },
+    {
+      "id": 63,
+      "topic": 5,
+      "es": "Una zona residencial o comercial densamente poblada no tiene otra regla señalizada ni límite municipal de 25 mph. ¿Qué referencia da el manual?",
+      "en": "No different limit or municipal 25-mph rule applies in a thickly settled or business district. What limit does the manual give?",
+      "options": [
+        {
+          "es": "50 mph",
+          "en": "50 mph"
+        },
+        {
+          "es": "30 mph",
+          "en": "30 mph"
+        },
+        {
+          "es": "40 mph",
+          "en": "40 mph"
+        },
+        {
+          "es": "65 mph",
+          "en": "65 mph"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La referencia es 30 mph; algunas comunidades adoptan 25 mph. Siempre revisa la señalización local.",
+        "en": "The reference is 30 mph; some communities adopt 25 mph. Always check local signs."
+      },
+      "source": "79-80"
+    },
+    {
+      "id": 64,
+      "topic": 5,
+      "es": "¿Qué significa una señal de entrada municipal que establece 25 mph salvo indicación distinta?",
+      "en": "What does a town-entry sign establishing 25 mph unless otherwise posted mean?",
+      "options": [
+        {
+          "es": "Solo aplica en estacionamientos",
+          "en": "Parking lots only"
+        },
+        {
+          "es": "Es sugerencia opcional",
+          "en": "Optional advice"
+        },
+        {
+          "es": "Permite ir a 40",
+          "en": "It allows 40"
+        },
+        {
+          "es": "Debes aplicar esa regla donde corresponda",
+          "en": "Apply that rule where applicable"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "No supongas que todas las zonas de todas las ciudades tienen idéntico límite.",
+        "en": "Do not assume all districts in every town have the same limit."
+      },
+      "source": "80"
+    },
+    {
+      "id": 65,
+      "topic": 5,
+      "es": "En buenas condiciones y tránsito moderado, ¿qué separación mínima recomienda el manual detrás de un auto?",
+      "en": "In good conditions and moderate traffic, what minimum following gap does the manual recommend behind a car?",
+      "options": [
+        {
+          "es": "3 segundos",
+          "en": "3 seconds"
+        },
+        {
+          "es": "Medio segundo",
+          "en": "Half a second"
+        },
+        {
+          "es": "Un pie",
+          "en": "One foot"
+        },
+        {
+          "es": "Un largo fijo de auto",
+          "en": "One fixed car length"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Cuenta desde que el vehículo delantero pasa una referencia hasta que tú llegas a ella.",
+        "en": "Count from when the lead vehicle passes a reference point until you reach it."
+      },
+      "source": "43"
+    },
+    {
+      "id": 66,
+      "topic": 5,
+      "es": "¿Qué separación recomienda el manual detrás de una motocicleta?",
+      "en": "What following gap does the manual recommend behind a motorcycle?",
+      "options": [
+        {
+          "es": "1 segundo",
+          "en": "1 second"
+        },
+        {
+          "es": "2 segundos",
+          "en": "2 seconds"
+        },
+        {
+          "es": "Al menos 4 segundos",
+          "en": "At least 4 seconds"
+        },
+        {
+          "es": "La misma siempre",
+          "en": "Always the same"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La moto puede frenar o variar de posición rápidamente; deja espacio adicional.",
+        "en": "A motorcycle can stop or change position quickly; allow extra room."
+      },
+      "source": "43"
+    },
+    {
+      "id": 67,
+      "topic": 5,
+      "es": "¿Qué debes hacer con tu distancia de seguimiento cuando nieva o hay hielo?",
+      "en": "What should you do with your following distance in snow or ice?",
+      "options": [
+        {
+          "es": "Reducirla",
+          "en": "Reduce it"
+        },
+        {
+          "es": "Aumentarla",
+          "en": "Increase it"
+        },
+        {
+          "es": "Mantener medio segundo",
+          "en": "Keep half a second"
+        },
+        {
+          "es": "Acercarte para ver mejor",
+          "en": "Move closer to see better"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Necesitas más margen para reaccionar y frenar en superficies resbaladizas.",
+        "en": "You need more room to react and stop on slippery surfaces."
+      },
+      "source": "43-44,48"
+    },
+    {
+      "id": 68,
+      "topic": 5,
+      "es": "Un vehículo te sigue demasiado cerca. ¿Qué respuesta recomienda el manual?",
+      "en": "A vehicle is tailgating you. What response does the manual recommend?",
+      "options": [
+        {
+          "es": "Frenar para asustarlo",
+          "en": "Brake to scare it"
+        },
+        {
+          "es": "Acelerar sin límite",
+          "en": "Accelerate without limit"
+        },
+        {
+          "es": "Bloquearlo",
+          "en": "Block it"
+        },
+        {
+          "es": "Dejarlo pasar cambiando de carril o apartándote con seguridad",
+          "en": "Let it pass by safely changing lanes or pulling aside"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "No uses un frenazo como castigo. Busca una separación segura.",
+        "en": "Do not punish it with a sudden brake. Create safe separation."
+      },
+      "source": "43"
+    },
+    {
+      "id": 69,
+      "topic": 5,
+      "es": "¿Debes encender luces delanteras y traseras cuando usas limpiaparabrisas por lluvia?",
+      "en": "Must you turn on headlights and taillights when using wipers in rain?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No, de día nunca",
+          "en": "No, never by day"
+        },
+        {
+          "es": "Solo en autopista",
+          "en": "Only on highways"
+        },
+        {
+          "es": "Solo con niebla",
+          "en": "Only in fog"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Las luces de circulación diurna por sí solas no bastan.",
+        "en": "Daytime running lights alone are not enough."
+      },
+      "source": "45,47"
+    },
+    {
+      "id": 70,
+      "topic": 5,
+      "es": "¿Cuándo exige el manual luces por el horario nocturno?",
+      "en": "When does the manual require lights based on nighttime hours?",
+      "options": [
+        {
+          "es": "Solo después de medianoche",
+          "en": "Only after midnight"
+        },
+        {
+          "es": "Exactamente desde el atardecer",
+          "en": "Exactly from sunset"
+        },
+        {
+          "es": "Desde media hora después de la puesta de sol hasta media hora antes de la salida",
+          "en": "From half an hour after sunset to half an hour before sunrise"
+        },
+        {
+          "es": "Solo en calles sin faroles",
+          "en": "Only on unlit streets"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "También debes usarlas antes o después si la visibilidad o las condiciones lo exigen.",
+        "en": "Use them outside those hours too when visibility or conditions require."
+      },
+      "source": "45-46"
+    },
+    {
+      "id": 71,
+      "topic": 5,
+      "es": "¿A qué distancia debes bajar luces altas ante un vehículo que viene de frente?",
+      "en": "Within what distance must you dim high beams for an oncoming vehicle?",
+      "options": [
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        },
+        {
+          "es": "500 pies",
+          "en": "500 feet"
+        },
+        {
+          "es": "100 pies",
+          "en": "100 feet"
+        },
+        {
+          "es": "1 milla",
+          "en": "1 mile"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Evita deslumbrar al conductor que viene en sentido contrario.",
+        "en": "Avoid dazzling the oncoming driver."
+      },
+      "source": "46"
+    },
+    {
+      "id": 72,
+      "topic": 5,
+      "es": "¿A qué distancia debes bajar luces altas cuando sigues a otro vehículo?",
+      "en": "Within what distance must you dim high beams when following another vehicle?",
+      "options": [
+        {
+          "es": "20 pies",
+          "en": "20 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        },
+        {
+          "es": "100 pies",
+          "en": "100 feet"
+        },
+        {
+          "es": "200 pies",
+          "en": "200 feet"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "La luz alta también puede deslumbrar por los espejos del vehículo delantero.",
+        "en": "High beams can also dazzle through the lead vehicle's mirrors."
+      },
+      "source": "46"
+    },
+    {
+      "id": 73,
+      "topic": 5,
+      "es": "¿Qué luces debes usar en niebla?",
+      "en": "Which headlights should you use in fog?",
+      "options": [
+        {
+          "es": "Luces bajas",
+          "en": "Low beams"
+        },
+        {
+          "es": "Altas",
+          "en": "High beams"
+        },
+        {
+          "es": "Solo luces interiores",
+          "en": "Interior lights only"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "La luz alta se refleja en la niebla y dificulta la visión.",
+        "en": "High beams reflect from fog and worsen visibility."
+      },
+      "source": "47"
+    },
+    {
+      "id": 74,
+      "topic": 5,
+      "es": "¿Cuándo debes reducir velocidad para tomar una curva?",
+      "en": "When should you slow for a curve?",
+      "options": [
+        {
+          "es": "Solo al salir",
+          "en": "Only on exit"
+        },
+        {
+          "es": "Después de derrapar",
+          "en": "After skidding"
+        },
+        {
+          "es": "Antes de entrar",
+          "en": "Before entering"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Anticipa la curva y evita depender de frenadas bruscas dentro de ella.",
+        "en": "Anticipate the curve and avoid relying on abrupt braking in it."
+      },
+      "source": "45"
+    },
+    {
+      "id": 75,
+      "topic": 5,
+      "es": "Al aumentar velocidad o empeorar el pavimento, ¿qué ocurre con la distancia necesaria para detenerte?",
+      "en": "As speed rises or pavement worsens, what happens to stopping distance?",
+      "options": [
+        {
+          "es": "Desaparece",
+          "en": "It disappears"
+        },
+        {
+          "es": "Aumenta",
+          "en": "It increases"
+        },
+        {
+          "es": "Siempre es igual",
+          "en": "It is always the same"
+        },
+        {
+          "es": "Depende solo del claxon",
+          "en": "It depends only on the horn"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La distancia total incluye la reacción y el frenado; no se mide solo desde que pisas el freno.",
+        "en": "Total stopping distance includes reaction and braking, not just distance after braking begins."
+      },
+      "source": "44"
+    },
+    {
+      "id": 76,
+      "topic": 6,
+      "es": "¿Con cuánta anticipación debes señalar un giro ordinario?",
+      "en": "How far in advance should you signal an ordinary turn?",
+      "options": [
+        {
+          "es": "10 pies",
+          "en": "10 feet"
+        },
+        {
+          "es": "25 pies",
+          "en": "25 feet"
+        },
+        {
+          "es": "50 pies",
+          "en": "50 feet"
+        },
+        {
+          "es": "Al menos 100 pies",
+          "en": "At least 100 feet"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "El manual indica 100 pies y, en carretera, al menos 500 pies antes del giro.",
+        "en": "The manual states 100 feet and, on a highway, at least 500 feet before a turn."
+      },
+      "source": "97"
+    },
+    {
+      "id": 77,
+      "topic": 6,
+      "es": "Antes de cambiar de carril, ¿qué revisión es necesaria además de los espejos?",
+      "en": "Before changing lanes, what check is needed besides mirrors?",
+      "options": [
+        {
+          "es": "El punto ciego mediante una mirada por el hombro",
+          "en": "Check the blind spot over your shoulder"
+        },
+        {
+          "es": "Solo la radio",
+          "en": "Only the radio"
+        },
+        {
+          "es": "Solo el velocímetro",
+          "en": "Only the speedometer"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Los espejos dejan áreas que no muestran vehículos o bicicletas.",
+        "en": "Mirrors leave areas where vehicles or bicycles may be hidden."
+      },
+      "source": "93-94"
+    },
+    {
+      "id": 78,
+      "topic": 6,
+      "es": "¿Qué indica la señal manual con el brazo izquierdo recto hacia afuera?",
+      "en": "What does the left arm extended straight out indicate?",
+      "options": [
+        {
+          "es": "Frenar",
+          "en": "Braking"
+        },
+        {
+          "es": "Girar a la derecha",
+          "en": "Right turn"
+        },
+        {
+          "es": "Girar a la izquierda",
+          "en": "Left turn"
+        },
+        {
+          "es": "Retroceder",
+          "en": "Reversing"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "El brazo izquierdo horizontal anuncia giro izquierdo.",
+        "en": "A horizontal left arm signals a left turn."
+      },
+      "source": "93"
+    },
+    {
+      "id": 79,
+      "topic": 6,
+      "es": "¿Qué indica el brazo izquierdo doblado hacia arriba?",
+      "en": "What does the left arm bent upward indicate?",
+      "options": [
+        {
+          "es": "Parar",
+          "en": "Stop"
+        },
+        {
+          "es": "Girar a la derecha",
+          "en": "Right turn"
+        },
+        {
+          "es": "Girar a la izquierda",
+          "en": "Left turn"
+        },
+        {
+          "es": "Estacionar gratis",
+          "en": "Free parking"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La señal manual hacia arriba corresponde al giro derecho.",
+        "en": "The upward hand signal indicates a right turn."
+      },
+      "source": "93"
+    },
+    {
+      "id": 80,
+      "topic": 6,
+      "es": "¿Qué indica el brazo izquierdo doblado hacia abajo?",
+      "en": "What does the left arm bent downward indicate?",
+      "options": [
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        },
+        {
+          "es": "Derecha",
+          "en": "Right"
+        },
+        {
+          "es": "Izquierda",
+          "en": "Left"
+        },
+        {
+          "es": "Disminuir velocidad o detenerse",
+          "en": "Slowing or stopping"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "La señal hacia abajo comunica reducción de velocidad o parada.",
+        "en": "The downward hand signal communicates slowing or stopping."
+      },
+      "source": "93"
+    },
+    {
+      "id": 81,
+      "topic": 6,
+      "es": "¿Desde qué carril debes iniciar normalmente un giro a la derecha?",
+      "en": "From which lane should you normally begin a right turn?",
+      "options": [
+        {
+          "es": "El carril derecho, salvo señalización distinta",
+          "en": "The right lane, unless markings direct otherwise"
+        },
+        {
+          "es": "El carril izquierdo",
+          "en": "The left lane"
+        },
+        {
+          "es": "Cualquier carril",
+          "en": "Any lane"
+        },
+        {
+          "es": "La berma",
+          "en": "The shoulder"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Respeta las flechas y carriles de giro; no hagas un giro abierto que invada otros carriles.",
+        "en": "Follow arrows and turn lanes; do not swing wide into other lanes."
+      },
+      "source": "97-98"
+    },
+    {
+      "id": 82,
+      "topic": 6,
+      "es": "¿Para qué sirve un carril central compartido de giro izquierdo?",
+      "en": "What is a shared center left-turn lane for?",
+      "options": [
+        {
+          "es": "Para circular largas distancias",
+          "en": "For long-distance travel"
+        },
+        {
+          "es": "Para adelantar",
+          "en": "For passing"
+        },
+        {
+          "es": "Para efectuar giros izquierdos",
+          "en": "For making left turns"
+        },
+        {
+          "es": "Para estacionar",
+          "en": "For parking"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "No es un carril de circulación ni de adelantamiento.",
+        "en": "It is not a travel or passing lane."
+      },
+      "source": "98"
+    },
+    {
+      "id": 83,
+      "topic": 6,
+      "es": "¿Dónde NO debes hacer un retorno en U?",
+      "en": "Where must you NOT make a U-turn?",
+      "options": [
+        {
+          "es": "En un lugar permitido y despejado",
+          "en": "At a permitted clear location"
+        },
+        {
+          "es": "Cerca de una curva o cima donde no se vean 500 pies",
+          "en": "Near a curve or hillcrest without 500 feet of visibility"
+        },
+        {
+          "es": "Donde sea seguro",
+          "en": "Where safe"
+        },
+        {
+          "es": "Donde el camino esté libre",
+          "en": "Where the path is clear"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "También está prohibido donde exista NO U-TURN. No crees peligro al tránsito contrario.",
+        "en": "It is also prohibited at NO U-TURN signs. Do not endanger oncoming traffic."
+      },
+      "source": "98"
+    },
+    {
+      "id": 84,
+      "topic": 6,
+      "es": "Te pasaste de salida en la autopista. ¿Qué haces?",
+      "en": "You missed your highway exit. What do you do?",
+      "options": [
+        {
+          "es": "Retroceder por la berma",
+          "en": "Reverse on the shoulder"
+        },
+        {
+          "es": "Frenar en el carril",
+          "en": "Stop in the lane"
+        },
+        {
+          "es": "Cruzar la mediana",
+          "en": "Cross the median"
+        },
+        {
+          "es": "Continuar hasta la siguiente salida",
+          "en": "Continue to the next exit"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "No retrocedas ni cruces carriles de forma repentina para recuperar la salida.",
+        "en": "Do not reverse or cut abruptly across lanes to recover the exit."
+      },
+      "source": "94-95"
+    },
+    {
+      "id": 85,
+      "topic": 6,
+      "es": "Al incorporarte a la autopista desde una rampa, ¿qué debes hacer?",
+      "en": "When merging onto a highway from a ramp, what should you do?",
+      "options": [
+        {
+          "es": "Buscar un espacio y ceder al tránsito existente",
+          "en": "Find a gap and yield to existing traffic"
+        },
+        {
+          "es": "Obligar a otros a frenar",
+          "en": "Force others to brake"
+        },
+        {
+          "es": "Parar siempre al final",
+          "en": "Always stop at the end"
+        },
+        {
+          "es": "Entrar sin señalizar",
+          "en": "Enter without signaling"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Usa el carril de aceleración para ajustar la velocidad y entra solo cuando sea seguro.",
+        "en": "Use the acceleration lane to adjust speed and merge only when safe."
+      },
+      "source": "94-95"
+    },
+    {
+      "id": 86,
+      "topic": 6,
+      "es": "¿Puedes exceder el límite para adelantar a un vehículo lento?",
+      "en": "May you exceed the speed limit to pass a slow vehicle?",
+      "options": [
+        {
+          "es": "Solo 15 mph",
+          "en": "By 15 mph only"
+        },
+        {
+          "es": "Solo con luces altas",
+          "en": "Only with high beams"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La maniobra de adelantamiento no autoriza exceder la velocidad permitida.",
+        "en": "Passing does not authorize exceeding the speed limit."
+      },
+      "source": "102"
+    },
+    {
+      "id": 87,
+      "topic": 6,
+      "es": "¿Puedes usar la berma para adelantar una fila de autos?",
+      "en": "May you use the shoulder to pass a line of cars?",
+      "options": [
+        {
+          "es": "Sí si hay tráfico",
+          "en": "Yes in congestion"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí con intermitentes",
+          "en": "Yes with hazards"
+        },
+        {
+          "es": "Sí durante el día",
+          "en": "Yes during daylight"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "No uses la berma o acera para adelantar.",
+        "en": "Do not use the shoulder or sidewalk for passing."
+      },
+      "source": "102"
+    },
+    {
+      "id": 88,
+      "topic": 6,
+      "es": "Otro conductor te está adelantando. ¿Qué debes hacer?",
+      "en": "Another driver is passing you. What must you do?",
+      "options": [
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        },
+        {
+          "es": "Cerrar el carril",
+          "en": "Block the lane"
+        },
+        {
+          "es": "Competir",
+          "en": "Race"
+        },
+        {
+          "es": "Reducir velocidad y mantenerte a la derecha",
+          "en": "Slow down and keep right"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Facilita que complete la maniobra sin riesgo; no aumentes la velocidad.",
+        "en": "Let the other driver complete the pass safely; do not speed up."
+      },
+      "source": "103"
+    },
+    {
+      "id": 89,
+      "topic": 6,
+      "es": "¿Qué línea amarilla permite adelantamiento temporal al otro sentido cuando es seguro?",
+      "en": "Which yellow line permits temporary use of the opposing lane for a safe pass?",
+      "options": [
+        {
+          "es": "Una línea discontinua de tu lado",
+          "en": "A broken line on your side"
+        },
+        {
+          "es": "Una continua de tu lado",
+          "en": "A solid line on your side"
+        },
+        {
+          "es": "Cualquier doble continua",
+          "en": "Any double solid"
+        },
+        {
+          "es": "Ninguna señal importa",
+          "en": "Markings do not matter"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Necesitas además visibilidad, espacio suficiente y ausencia de una prohibición aplicable.",
+        "en": "You also need visibility, sufficient room, and no applicable prohibition."
+      },
+      "source": "90,103"
+    },
+    {
+      "id": 90,
+      "topic": 6,
+      "es": "Antes de volver a tu carril tras adelantar, ¿qué referencia da el manual?",
+      "en": "Before returning to your lane after passing, what reference does the manual give?",
+      "options": [
+        {
+          "es": "Ver la rueda delantera al lado",
+          "en": "See the front wheel beside you"
+        },
+        {
+          "es": "Esperar exactamente un segundo",
+          "en": "Wait exactly one second"
+        },
+        {
+          "es": "Poder ver los faros del vehículo adelantado en el espejo",
+          "en": "Be able to see the passed vehicle's headlights in your mirror"
+        },
+        {
+          "es": "Solo escuchar una bocina",
+          "en": "Only hear a horn"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Asegura un espacio suficiente y señaliza antes de volver.",
+        "en": "Ensure sufficient clearance and signal before returning."
+      },
+      "source": "103"
+    },
+    {
+      "id": 91,
+      "topic": 7,
+      "es": "¿Cuál es el espacio lateral mínimo al adelantar a un usuario vulnerable?",
+      "en": "What is the minimum lateral clearance when passing a vulnerable road user?",
+      "options": [
+        {
+          "es": "1 pie",
+          "en": "foot"
+        },
+        {
+          "es": "2 pies",
+          "en": "2 feet"
+        },
+        {
+          "es": "3 pies",
+          "en": "3 feet"
+        },
+        {
+          "es": "Al menos 4 pies",
+          "en": "At least 4 feet"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Incluye ciclistas, peatones y otros usuarios desprotegidos. Cuatro pies equivalen aproximadamente a 1,22 m.",
+        "en": "This includes bicyclists, pedestrians, and other unprotected users. Four feet is about 1.22 m."
+      },
+      "source": "49"
+    },
+    {
+      "id": 92,
+      "topic": 7,
+      "es": "La calle es demasiado angosta para adelantar a una bicicleta dejando cuatro pies. ¿Qué haces?",
+      "en": "The road is too narrow to pass a bicycle with four feet of clearance. What do you do?",
+      "options": [
+        {
+          "es": "Esperar hasta que sea posible pasar con seguridad",
+          "en": "Wait until a safe pass is possible"
+        },
+        {
+          "es": "Pasar rozando",
+          "en": "Squeeze past"
+        },
+        {
+          "es": "Tocar bocina y forzar",
+          "en": "Honk and force through"
+        },
+        {
+          "es": "Subir a la acera",
+          "en": "Drive on the sidewalk"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "No conviertas el mínimo obligatorio de separación en una distancia opcional.",
+        "en": "Do not treat the required minimum clearance as optional."
+      },
+      "source": "49"
+    },
+    {
+      "id": 93,
+      "topic": 7,
+      "es": "¿Puede ser necesario cruzar la línea central para adelantar a un usuario vulnerable?",
+      "en": "Might crossing the centerline be necessary to pass a vulnerable road user?",
+      "options": [
+        {
+          "es": "Nunca en ningún caso",
+          "en": "Never under any circumstances"
+        },
+        {
+          "es": "Solo acelerando",
+          "en": "Only by speeding"
+        },
+        {
+          "es": "Sí, si es seguro y respetas el límite",
+          "en": "Yes, if safe and within the speed limit"
+        },
+        {
+          "es": "Sí, aunque venga otro auto",
+          "en": "Yes, even with oncoming traffic"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La regla de usuarios vulnerables permite usar el carril contiguo o cruzar la línea central cuando sea seguro.",
+        "en": "The vulnerable-user rule allows using an adjacent lane or crossing the centerline when safe."
+      },
+      "source": "49"
+    },
+    {
+      "id": 94,
+      "topic": 7,
+      "es": "Una persona con bastón blanco o perro guía cruza. ¿Qué exige la regla?",
+      "en": "A person with a white cane or guide dog is crossing. What is required?",
+      "options": [
+        {
+          "es": "Solo reducir un poco",
+          "en": "Only slow slightly"
+        },
+        {
+          "es": "Detenerte completamente y esperar a que cruce con seguridad",
+          "en": "Stop completely and wait for a safe crossing"
+        },
+        {
+          "es": "Pasar por detrás sin mirar",
+          "en": "Pass behind without checking"
+        },
+        {
+          "es": "Tocar bocina",
+          "en": "Honk"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La ley del bastón blanco exige detenerse; no impongas tu paso.",
+        "en": "The White Cane Law requires stopping; do not force your way through."
+      },
+      "source": "100"
+    },
+    {
+      "id": 95,
+      "topic": 7,
+      "es": "¿Debes tocar bocina o hacer señas para apurar a un peatón ciego que está cruzando?",
+      "en": "Should you honk or wave to hurry a blind pedestrian who is crossing?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo si tienes verde",
+          "en": "Only on green"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Permanece detenido hasta que haya cruzado con seguridad; la bocina o las señas pueden confundirlo.",
+        "en": "Remain stopped until the person has safely crossed; honking or waving may cause confusion."
+      },
+      "source": "100"
+    },
+    {
+      "id": 96,
+      "topic": 7,
+      "es": "Un bus escolar muestra luces rojas y señal STOP desplegada en una calle sin divisor físico. ¿Qué haces?",
+      "en": "A school bus shows red lights and an extended STOP sign on a road without a physical divider. What do you do?",
+      "options": [
+        {
+          "es": "Parar en ambos sentidos",
+          "en": "Stop in either direction"
+        },
+        {
+          "es": "Pasar a 10 mph",
+          "en": "Pass at 10 mph"
+        },
+        {
+          "es": "Parar solo si vas detrás",
+          "en": "Stop only if following it"
+        },
+        {
+          "es": "Pasar si no ves niños",
+          "en": "Pass if no children are visible"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "La obligación rige desde ambos sentidos y continúa mientras están activas las señales de parada.",
+        "en": "The duty applies in both directions and while the stopping signals remain active."
+      },
+      "source": "105"
+    },
+    {
+      "id": 97,
+      "topic": 7,
+      "es": "¿Qué excepción permite no detenerse ante un bus escolar al otro lado?",
+      "en": "What exception allows you not to stop for a school bus on the opposite side?",
+      "options": [
+        {
+          "es": "Una doble línea amarilla",
+          "en": "A double yellow line"
+        },
+        {
+          "es": "Una calle muy ancha",
+          "en": "A very wide street"
+        },
+        {
+          "es": "Una autopista dividida con barrera entre sentidos",
+          "en": "A divided highway with a barrier separating directions"
+        },
+        {
+          "es": "Que tengas prisa",
+          "en": "Being in a hurry"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Las líneas pintadas no equivalen a la barrera que describe la excepción.",
+        "en": "Painted lines are not the barrier described by the exception."
+      },
+      "source": "105"
+    },
+    {
+      "id": 98,
+      "topic": 7,
+      "es": "¿Puedes compartir lado a lado el carril de una motocicleta con tu automóvil?",
+      "en": "May you drive your car side by side with a motorcycle in its lane?",
+      "options": [
+        {
+          "es": "Sí, si cabe",
+          "en": "Yes, if it fits"
+        },
+        {
+          "es": "No; respeta su espacio de carril",
+          "en": "No; respect its lane space"
+        },
+        {
+          "es": "Solo en tráfico lento",
+          "en": "Only in slow traffic"
+        },
+        {
+          "es": "Solo al tocar bocina",
+          "en": "Only after honking"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La moto necesita espacio para maniobrar y evitar peligros.",
+        "en": "The motorcycle needs room to maneuver and avoid hazards."
+      },
+      "source": "50-51"
+    },
+    {
+      "id": 99,
+      "topic": 7,
+      "es": "Si no ves al conductor de un camión en su espejo, ¿qué debes suponer?",
+      "en": "If you cannot see a truck driver in the truck's mirror, what should you assume?",
+      "options": [
+        {
+          "es": "Que sí te ve siempre",
+          "en": "The driver always sees you"
+        },
+        {
+          "es": "Que debes acercarte",
+          "en": "You should move closer"
+        },
+        {
+          "es": "Que el espejo no sirve",
+          "en": "The mirror is useless"
+        },
+        {
+          "es": "Que probablemente no puede verte",
+          "en": "The driver probably cannot see you"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Evita permanecer en las zonas ciegas del camión.",
+        "en": "Avoid remaining in the truck's blind spots."
+      },
+      "source": "105-106"
+    },
+    {
+      "id": 100,
+      "topic": 7,
+      "es": "Un camión se abre a la izquierda para girar a la derecha. ¿Qué debes evitar?",
+      "en": "A truck swings left to make a right turn. What should you avoid?",
+      "options": [
+        {
+          "es": "Meterte entre el camión y el borde derecho",
+          "en": "Squeezing between the truck and the right edge"
+        },
+        {
+          "es": "Darle espacio",
+          "en": "Giving it space"
+        },
+        {
+          "es": "Esperar",
+          "en": "Waiting"
+        },
+        {
+          "es": "Observar su señal",
+          "en": "Watching its signal"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Las ruedas traseras siguen una trayectoria más cerrada; podrías quedar atrapado.",
+        "en": "Rear wheels follow a tighter path; you could be trapped."
+      },
+      "source": "106"
+    },
+    {
+      "id": 101,
+      "topic": 7,
+      "es": "Antes de abrir la puerta de un auto estacionado junto a tránsito, ¿qué revisas?",
+      "en": "Before opening a parked car door into traffic, what do you check?",
+      "options": [
+        {
+          "es": "Solo el teléfono",
+          "en": "Only your phone"
+        },
+        {
+          "es": "Solo la hora",
+          "en": "Only the time"
+        },
+        {
+          "es": "Ciclistas, peatones y vehículos que se aproximen",
+          "en": "Approaching bicyclists, pedestrians, and vehicles"
+        },
+        {
+          "es": "Nada si es tu puerta",
+          "en": "Nothing if it is your door"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Abre únicamente cuando no interfieras con otros usuarios.",
+        "en": "Open only when you will not interfere with other road users."
+      },
+      "source": "114-115"
+    },
+    {
+      "id": 102,
+      "topic": 7,
+      "es": "Vas a girar a la derecha y una bicicleta sigue recto a tu derecha. ¿Qué haces?",
+      "en": "You are turning right while a bicycle continues straight on your right. What do you do?",
+      "options": [
+        {
+          "es": "Adelantarla y cortarle el paso",
+          "en": "Pass and cut across it"
+        },
+        {
+          "es": "Ceder y girar sin atravesarte en su trayectoria",
+          "en": "Yield and turn without cutting across its path"
+        },
+        {
+          "es": "Tocar bocina para que pare",
+          "en": "Honk for it to stop"
+        },
+        {
+          "es": "Ignorarla",
+          "en": "Ignore it"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "No hagas un giro que obligue al ciclista a frenar o esquivarte.",
+        "en": "Do not turn in a way that forces the bicyclist to brake or swerve."
+      },
+      "source": "96,114-115"
+    },
+    {
+      "id": 103,
+      "topic": 7,
+      "es": "Cruzas una acera para entrar a un estacionamiento. ¿Quién tiene prioridad?",
+      "en": "You cross a sidewalk to enter a parking lot. Who has priority?",
+      "options": [
+        {
+          "es": "Tu automóvil",
+          "en": "Your car"
+        },
+        {
+          "es": "Quien toca bocina",
+          "en": "Whoever honks"
+        },
+        {
+          "es": "Solo los adultos",
+          "en": "Adults only"
+        },
+        {
+          "es": "Los peatones que cruzan tu trayectoria",
+          "en": "Pedestrians crossing your path"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Debes ceder también al entrar o salir de accesos privados.",
+        "en": "Yield when entering or leaving private access too."
+      },
+      "source": "83,99-100"
+    },
+    {
+      "id": 104,
+      "topic": 7,
+      "es": "¿Debes detener tu auto sobre el área verde reservada para bicicletas en un semáforo rojo?",
+      "en": "Should you stop your car on the green bicycle area at a red light?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, si no hay ciclistas",
+          "en": "Yes, if no bicyclists are there"
+        },
+        {
+          "es": "Solo con lluvia",
+          "en": "Only in rain"
+        },
+        {
+          "es": "Solo por dos minutos",
+          "en": "Only for two minutes"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Mantén libre el espacio y observa a los ciclistas antes de cruzarlo.",
+        "en": "Keep the area clear and check for bicyclists before crossing it."
+      },
+      "source": "91,115"
+    },
+    {
+      "id": 105,
+      "topic": 7,
+      "es": "Hay un vehículo detenido ante un cruce para dejar pasar peatones. ¿Debes adelantarlo?",
+      "en": "A vehicle is stopped at a crossing to let pedestrians pass. Should you pass it?",
+      "options": [
+        {
+          "es": "Sí, rápido",
+          "en": "Yes, quickly"
+        },
+        {
+          "es": "Solo por la derecha",
+          "en": "Only on the right"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Si no ves al peatón",
+          "en": "If you cannot see the pedestrian"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Puede ocultar a una persona. No adelantes a quien para o reduce por un peatón.",
+        "en": "It may hide a person. Do not pass a vehicle stopped or slowing for a pedestrian."
+      },
+      "source": "83"
+    },
+    {
+      "id": 106,
+      "topic": 8,
+      "es": "¿A qué distancia máxima de la acera debes estacionar en un distrito comercial o residencial, salvo parqueo en ángulo permitido?",
+      "en": "How close to the curb must you park in a business or residential district, except authorized angle parking?",
+      "options": [
+        {
+          "es": "3 pies",
+          "en": "3 feet"
+        },
+        {
+          "es": "No más de 12 pulgadas",
+          "en": "No more than 12 inches"
+        },
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "Cualquier distancia",
+          "en": "Any distance"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Doce pulgadas equivalen a un pie, unos 30 cm.",
+        "en": "Twelve inches equals one foot, about 30 cm."
+      },
+      "source": "109"
+    },
+    {
+      "id": 107,
+      "topic": 8,
+      "es": "Según el manual, ¿puedes estacionar dentro de diez pies de un hidrante?",
+      "en": "According to the manual, may you park within ten feet of a fire hydrant?",
+      "options": [
+        {
+          "es": "Sí, con intermitentes",
+          "en": "Yes, with hazard lights"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        },
+        {
+          "es": "Solo cinco minutos",
+          "en": "Only for five minutes"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Mantén libre el acceso al hidrante y respeta además las señales locales.",
+        "en": "Keep hydrant access clear and obey local signs as well."
+      },
+      "source": "111"
+    },
+    {
+      "id": 108,
+      "topic": 8,
+      "es": "Según el manual, ¿puedes estacionar a menos de veinte pies de una intersección?",
+      "en": "According to the manual, may you park within twenty feet of an intersection?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "Solo en esquina",
+          "en": "Only at the corner"
+        },
+        {
+          "es": "Solo en una rotonda",
+          "en": "Only at a rotary"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El manual incluye esa distancia en sus prohibiciones generales de estacionamiento.",
+        "en": "The manual includes this distance among its general parking prohibitions."
+      },
+      "source": "110"
+    },
+    {
+      "id": 109,
+      "topic": 8,
+      "es": "¿Puedes estacionar en un carril de bicicletas?",
+      "en": "May you park in a bicycle lane?",
+      "options": [
+        {
+          "es": "Sí, para comprar algo",
+          "en": "Yes, to shop"
+        },
+        {
+          "es": "Sí, con motor encendido",
+          "en": "Yes, with the engine running"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo en domingo",
+          "en": "Only on Sunday"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La prohibición no desaparece por ser una parada corta.",
+        "en": "The prohibition does not disappear because the stop is short."
+      },
+      "source": "110"
+    },
+    {
+      "id": 110,
+      "topic": 8,
+      "es": "¿Puedes estacionar en el área rayada al lado de un espacio accesible si tienes placard?",
+      "en": "May you park in the striped area beside an accessible space if you have a placard?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo si cabe tu auto",
+          "en": "Only if your car fits"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La franja es de acceso y debe quedar libre incluso para titulares de placard.",
+        "en": "The access aisle must remain clear even for placard holders."
+      },
+      "source": "110-111"
+    },
+    {
+      "id": 111,
+      "topic": 8,
+      "es": "Estacionas cuesta arriba junto a una acera elevada. ¿Hacia dónde giras las ruedas delanteras?",
+      "en": "You park uphill against a curb. Where do you turn the front wheels?",
+      "options": [
+        {
+          "es": "Rectas siempre",
+          "en": "Always straight"
+        },
+        {
+          "es": "Hacia la acera",
+          "en": "Toward the curb"
+        },
+        {
+          "es": "Hacia atrás",
+          "en": "Backward"
+        },
+        {
+          "es": "Hacia afuera, hacia el carril",
+          "en": "Outward, toward the travel lane"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Si el vehículo retrocede, la rueda puede apoyarse en la acera. Aplica el freno de estacionamiento.",
+        "en": "If the vehicle rolls backward, a wheel can catch the curb. Set the parking brake."
+      },
+      "source": "110"
+    },
+    {
+      "id": 112,
+      "topic": 8,
+      "es": "Estacionas cuesta abajo junto a una acera elevada. ¿Hacia dónde giras las ruedas?",
+      "en": "You park downhill against a curb. Where do you turn the wheels?",
+      "options": [
+        {
+          "es": "Hacia la acera",
+          "en": "Toward the curb"
+        },
+        {
+          "es": "Hacia el carril",
+          "en": "Toward the lane"
+        },
+        {
+          "es": "Rectas",
+          "en": "Straight"
+        },
+        {
+          "es": "Da igual",
+          "en": "It does not matter"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Gira hacia adentro y coloca freno de estacionamiento y la transmisión apropiada.",
+        "en": "Turn inward and use the parking brake and appropriate transmission setting."
+      },
+      "source": "110"
+    },
+    {
+      "id": 113,
+      "topic": 8,
+      "es": "Estacionas en pendiente sin acera elevada. ¿Hacia dónde giras las ruedas?",
+      "en": "You park on a hill without a curb. Where do you turn the wheels?",
+      "options": [
+        {
+          "es": "Al centro del camino",
+          "en": "Toward the road center"
+        },
+        {
+          "es": "Rectas",
+          "en": "Straight"
+        },
+        {
+          "es": "Hacia el borde de la carretera",
+          "en": "Toward the road edge"
+        },
+        {
+          "es": "Al lado con más autos",
+          "en": "Toward the busier side"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Así el auto tenderá a alejarse del tránsito si llega a rodar.",
+        "en": "This helps a rolling vehicle move away from traffic."
+      },
+      "source": "110"
+    },
+    {
+      "id": 114,
+      "topic": 8,
+      "es": "Antes de dejar tu auto desocupado, ¿qué debes hacer?",
+      "en": "Before leaving your car unattended, what must you do?",
+      "options": [
+        {
+          "es": "Solo apagar la radio",
+          "en": "Only turn off the radio"
+        },
+        {
+          "es": "Apagar motor, aplicar freno de estacionamiento y asegurar el vehículo",
+          "en": "Shut off the engine, set the parking brake, and secure the vehicle"
+        },
+        {
+          "es": "Dejarlo en neutral",
+          "en": "Leave it in neutral"
+        },
+        {
+          "es": "Dejar la llave y motor",
+          "en": "Leave the key and engine on"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "El manual incluye bloquear el encendido, retirar la llave y cerrar con seguro.",
+        "en": "The manual includes locking the ignition, removing the key, and locking the door."
+      },
+      "source": "109"
+    },
+    {
+      "id": 115,
+      "topic": 8,
+      "es": "Vas a salir de un estacionamiento junto a la acera. ¿Qué debes hacer?",
+      "en": "You are pulling away from a curbside parking space. What must you do?",
+      "options": [
+        {
+          "es": "Exigir espacio",
+          "en": "Demand space"
+        },
+        {
+          "es": "Salir rápido",
+          "en": "Pull out quickly"
+        },
+        {
+          "es": "Solo mirar adelante",
+          "en": "Look forward only"
+        },
+        {
+          "es": "Ceder al tránsito, señalar y salir despacio",
+          "en": "Yield to traffic, signal, and pull out slowly"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Quien ya circula por el carril no pierde prioridad porque tú quieras incorporarte.",
+        "en": "Traffic already in the lane does not lose priority because you wish to merge."
+      },
+      "source": "109"
+    },
+    {
+      "id": 116,
+      "topic": 8,
+      "es": "¿Puedes estacionar frente a un driveway o sobre una rampa accesible?",
+      "en": "May you park in front of a driveway or across an accessible ramp?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo si el motor sigue encendido",
+          "en": "Only with the engine running"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        },
+        {
+          "es": "Solo para esperar a alguien",
+          "en": "Only to wait for someone"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Debes mantener libres los accesos de vehículos y peatones.",
+        "en": "Keep vehicle and pedestrian access clear."
+      },
+      "source": "110"
+    },
+    {
+      "id": 117,
+      "topic": 8,
+      "es": "¿Qué es estacionar en doble fila?",
+      "en": "What is double parking?",
+      "options": [
+        {
+          "es": "Usar dos monedas",
+          "en": "Using two coins"
+        },
+        {
+          "es": "Estacionar en dos pisos",
+          "en": "Parking on two floors"
+        },
+        {
+          "es": "Dejar el vehículo en un carril junto a autos estacionados",
+          "en": "Leaving a vehicle in a travel lane beside parked cars"
+        },
+        {
+          "es": "Estacionar de reversa",
+          "en": "Reverse parking"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "El manual lo prohíbe; puede bloquear el tránsito y ocultar peatones.",
+        "en": "The manual prohibits it; it can block traffic and hide pedestrians."
+      },
+      "source": "111"
+    },
+    {
+      "id": 118,
+      "topic": 8,
+      "es": "Un espacio tiene horario de limpieza de calle. ¿Qué regla sigues?",
+      "en": "A parking space has posted street-cleaning hours. What rule do you follow?",
+      "options": [
+        {
+          "es": "Ignorar si no ves el camión",
+          "en": "Ignore it if no sweeper is visible"
+        },
+        {
+          "es": "No estacionar durante el horario indicado",
+          "en": "Do not park during the posted period"
+        },
+        {
+          "es": "Quedarte con intermitentes",
+          "en": "Stay with hazard lights"
+        },
+        {
+          "es": "Pagar más y quedarte",
+          "en": "Pay extra and stay"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Pagar el parquímetro no elimina otras restricciones del lugar.",
+        "en": "Paying the meter does not remove other restrictions."
+      },
+      "source": "110-111"
+    },
+    {
+      "id": 119,
+      "topic": 8,
+      "es": "¿Cuánto ancho libre de vía exige el manual al detener o estacionar tu vehículo?",
+      "en": "How much clear roadway width does the manual require when stopping or parking?",
+      "options": [
+        {
+          "es": "4 pies",
+          "en": "4 feet"
+        },
+        {
+          "es": "6 pies",
+          "en": "6 feet"
+        },
+        {
+          "es": "8 pies",
+          "en": "8 feet"
+        },
+        {
+          "es": "Al menos 12 pies",
+          "en": "At least 12 feet"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "No debes crear un peligro ni bloquear el paso.",
+        "en": "Do not create a hazard or block traffic."
+      },
+      "source": "109"
+    },
+    {
+      "id": 120,
+      "topic": 8,
+      "es": "¿Puedes estacionar mirando contra el sentido del tránsito?",
+      "en": "May you park facing against the direction of traffic?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, si estás cerca de casa",
+          "en": "Yes, if near home"
+        },
+        {
+          "es": "Solo en doble fila",
+          "en": "Only while double parked"
+        },
+        {
+          "es": "Solo de día",
+          "en": "Only by day"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "El manual incluye estacionar contra el sentido entre las prohibiciones.",
+        "en": "The manual lists parking against traffic among prohibited practices."
+      },
+      "source": "111"
+    },
+    {
+      "id": 121,
+      "topic": 9,
+      "es": "Tienes 28 años y esperas en luz roja. ¿Puedes sostener el celular para leer mensajes?",
+      "en": "You are 28 and stopped at a red light. May you hold your phone to read messages?",
+      "options": [
+        {
+          "es": "Sí, estás detenido",
+          "en": "Yes, you are stopped"
+        },
+        {
+          "es": "Solo un mensaje",
+          "en": "Just one message"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Sí, si no hay policía",
+          "en": "Yes, if no police are present"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "La ley también rige en semáforos y STOP dentro del carril de circulación.",
+        "en": "The law also applies at red lights and STOP signs in the travel lane."
+      },
+      "source": "39"
+    },
+    {
+      "id": 122,
+      "topic": 9,
+      "es": "¿Puede un menor de 18 usar el celular en modo manos libres mientras conduce?",
+      "en": "May a driver under 18 use a phone hands-free while driving?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No, salvo la excepción para reportar una emergencia",
+          "en": "No, except to report an emergency"
+        },
+        {
+          "es": "Solo para llamadas sociales",
+          "en": "Only social calls"
+        },
+        {
+          "es": "Solo de día",
+          "en": "Only by day"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La regla para menores es más estricta que la de adultos.",
+        "en": "The rule for under-18 drivers is stricter than the adult rule."
+      },
+      "source": "40"
+    },
+    {
+      "id": 123,
+      "topic": 9,
+      "es": "¿Cuál es la multa de la primera infracción de la ley de manos libres?",
+      "en": "What is the first-offense fine under the hands-free law?",
+      "options": [
+        {
+          "es": "$25",
+          "en": "$25"
+        },
+        {
+          "es": "$50",
+          "en": "$50"
+        },
+        {
+          "es": "$250",
+          "en": "$250"
+        },
+        {
+          "es": "$100",
+          "en": "$100"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "La segunda es $250 con curso; la tercera y posteriores, $500 con otras consecuencias.",
+        "en": "The second is $250 with education; the third and later are $500 with additional consequences."
+      },
+      "source": "40"
+    },
+    {
+      "id": 124,
+      "topic": 9,
+      "es": "Para tu caso de 28 años, ¿qué BAC constituye el umbral general de prueba química fallida?",
+      "en": "For you at age 28, what BAC is the general failed chemical-test threshold?",
+      "options": [
+        {
+          "es": "0,08 % o más",
+          "en": "0.08% or higher"
+        },
+        {
+          "es": "0,18 %",
+          "en": "0.18%"
+        },
+        {
+          "es": "0,8 %",
+          "en": "0.8%"
+        },
+        {
+          "es": "Cualquier número menor que 1 % es seguro",
+          "en": "Anything under 1% is safe"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Un BAC menor no garantiza conducción segura ni excluye una infracción por conducir afectado.",
+        "en": "A lower BAC does not guarantee safe driving or rule out an impairment offense."
+      },
+      "source": "69,72-73"
+    },
+    {
+      "id": 125,
+      "topic": 9,
+      "es": "¿Desde qué BAC puede haber sanciones administrativas para un conductor menor de 21?",
+      "en": "At what BAC can an under-21 driver face administrative sanctions?",
+      "options": [
+        {
+          "es": "0,20 %",
+          "en": "0.20%"
+        },
+        {
+          "es": "0,10 %",
+          "en": "0.10%"
+        },
+        {
+          "es": "0,02 %",
+          "en": "0.02%"
+        },
+        {
+          "es": "0,50 %",
+          "en": "0.50%"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "No confundas el umbral administrativo juvenil con la regla penal general de 0,08 %.",
+        "en": "Do not confuse the youth administrative threshold with the general 0.08% criminal threshold."
+      },
+      "source": "69"
+    },
+    {
+      "id": 126,
+      "topic": 9,
+      "es": "Tienes más de 21 y ningún antecedente OUI. ¿Qué suspensión indica el manual por rechazar la prueba química en el supuesto de arresto aplicable?",
+      "en": "You are over 21 with no prior OUI. What suspension does the manual list for refusing a chemical test after an applicable arrest?",
+      "options": [
+        {
+          "es": "7 días",
+          "en": "7 days"
+        },
+        {
+          "es": "180 días",
+          "en": "180 days"
+        },
+        {
+          "es": "24 horas",
+          "en": "24 hours"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Es la suspensión administrativa por rechazo; otros antecedentes o circunstancias cambian las consecuencias.",
+        "en": "This is the administrative refusal suspension; other history or circumstances change the consequences."
+      },
+      "source": "70,73"
+    },
+    {
+      "id": 127,
+      "topic": 9,
+      "es": "¿Qué elimina realmente el alcohol del organismo con el paso del tiempo?",
+      "en": "What actually removes alcohol from the body over time?",
+      "options": [
+        {
+          "es": "Una ducha fría",
+          "en": "A cold shower"
+        },
+        {
+          "es": "Café",
+          "en": "Coffee"
+        },
+        {
+          "es": "Caminar rápido",
+          "en": "Walking fast"
+        },
+        {
+          "es": "El metabolismo y el tiempo",
+          "en": "Metabolism and time"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Ni el café ni una ducha te vuelven apto para conducir. Organiza transporte sobrio.",
+        "en": "Neither coffee nor a shower makes you fit to drive. Arrange sober transportation."
+      },
+      "source": "72-73"
+    },
+    {
+      "id": 128,
+      "topic": 9,
+      "es": "¿Un medicamento recetado puede afectar tu conducción y causar un OUI?",
+      "en": "Can prescription medication impair driving and lead to OUI?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No, por ser recetado",
+          "en": "No, because prescribed"
+        },
+        {
+          "es": "Solo si no pagaste",
+          "en": "Only if unpaid"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Los medicamentos legales también pueden reducir reflejos y atención.",
+        "en": "Legal medicines can also reduce alertness and reaction ability."
+      },
+      "source": "74-75"
+    },
+    {
+      "id": 129,
+      "topic": 9,
+      "es": "¿La legalidad del cannabis permite conducir bajo sus efectos?",
+      "en": "Does cannabis being legal allow driving while impaired by it?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo cerca de casa",
+          "en": "Only near home"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo a menos de 20 mph",
+          "en": "Only below 20 mph"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Conducir afectado por cannabis u otras drogas sigue siendo ilegal.",
+        "en": "Driving impaired by cannabis or other drugs remains illegal."
+      },
+      "source": "74-75"
+    },
+    {
+      "id": 130,
+      "topic": 9,
+      "es": "Durante los primeros seis meses de JOL, ¿puede un menor llevar amigos menores de 18 sin acompañante autorizado?",
+      "en": "During the first six JOL months, may a minor carry under-18 friends without a qualified supervisor?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo después de clases",
+          "en": "Only after school"
+        },
+        {
+          "es": "Solo si todos usan cinturón",
+          "en": "Only if all wear belts"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Existe excepción para familiares inmediatos; también puede ir un acompañante autorizado al lado del conductor.",
+        "en": "Immediate family is excepted; a qualified supervisor may also sit beside the driver."
+      },
+      "source": "10"
+    },
+    {
+      "id": 131,
+      "topic": 9,
+      "es": "¿Qué horario de restricción nocturna corresponde a una licencia JOL?",
+      "en": "What nighttime restriction applies to a JOL?",
+      "options": [
+        {
+          "es": "10 p. m.-6 a. m.",
+          "en": "10 p. m.-6 a. m."
+        },
+        {
+          "es": "11 p. m.-5 a. m.",
+          "en": "11 p. m.-5 a. m."
+        },
+        {
+          "es": "12 a. m.-6 a. m.",
+          "en": "12 a. m.-6 a. m."
+        },
+        {
+          "es": "12:30 a. m.-5 a. m.",
+          "en": "12:30 a. m.-5 a. m."
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "En ese horario se exige padre o tutor legal. No lo confundas con el permiso del menor, que empieza a medianoche.",
+        "en": "A parent or legal guardian is required then. Do not confuse it with the minor's permit restriction, starting at midnight."
+      },
+      "source": "10-11"
+    },
+    {
+      "id": 132,
+      "topic": 9,
+      "es": "¿Qué suspensión señala el manual por una primera infracción JOL de pasajeros u horario nocturno?",
+      "en": "What suspension does the manual list for a first JOL passenger or nighttime violation?",
+      "options": [
+        {
+          "es": "60 días",
+          "en": "60 days"
+        },
+        {
+          "es": "7 días",
+          "en": "7 days"
+        },
+        {
+          "es": "15 días",
+          "en": "15 days"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "La segunda implica 180 días y las posteriores un año, además de otros requisitos aplicables.",
+        "en": "The second brings 180 days and later violations one year, plus other applicable requirements."
+      },
+      "source": "11,61-62"
+    },
+    {
+      "id": 133,
+      "topic": 9,
+      "es": "¿Qué suspensión indica el manual por una primera infracción de exceso de velocidad con licencia JOL?",
+      "en": "What suspension does the manual list for a first speeding violation with a JOL?",
+      "options": [
+        {
+          "es": "Un día",
+          "en": "One day"
+        },
+        {
+          "es": "Diez días",
+          "en": "Ten days"
+        },
+        {
+          "es": "90 días",
+          "en": "90 days"
+        },
+        {
+          "es": "Ninguna",
+          "en": "None"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Las sanciones JOL son más severas e incluyen requisitos para recuperar la licencia.",
+        "en": "JOL sanctions are stricter and include reinstatement requirements."
+      },
+      "source": "58-59,61-62"
+    },
+    {
+      "id": 134,
+      "topic": 9,
+      "es": "En un automóvil de pasajeros ordinario, ¿qué uso del cinturón debes adoptar?",
+      "en": "In an ordinary passenger car, what seat-belt practice should you follow?",
+      "options": [
+        {
+          "es": "Solo el conductor",
+          "en": "Driver only"
+        },
+        {
+          "es": "Todos deben ir sujetos correctamente",
+          "en": "Everyone should be correctly restrained"
+        },
+        {
+          "es": "Solo en autopista",
+          "en": "Only on highways"
+        },
+        {
+          "es": "Solo en el asiento delantero",
+          "en": "Front seat only"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "La ley exige cinturones o sistemas infantiles, con excepciones legales limitadas. El airbag no los reemplaza.",
+        "en": "The law requires belts or child restraints, with limited legal exceptions. An airbag does not replace them."
+      },
+      "source": "35-38"
+    },
+    {
+      "id": 135,
+      "topic": 9,
+      "es": "Un niño tiene 6 años y mide 50 pulgadas. ¿Necesita un sistema infantil aprobado?",
+      "en": "A child is 6 years old and 50 inches tall. Is an approved child restraint required?",
+      "options": [
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo en autopista",
+          "en": "Only on highways"
+        },
+        {
+          "es": "Solo si va delante",
+          "en": "Only in front"
+        },
+        {
+          "es": "Sí",
+          "en": "Yes"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Debe usarlo hasta cumplir 8 años o alcanzar 57 pulgadas; después corresponde cinturón bien ajustado.",
+        "en": "A restraint is required until age 8 or 57 inches tall; a correctly fitted seat belt applies afterward."
+      },
+      "source": "36"
+    },
+    {
+      "id": 136,
+      "topic": 10,
+      "es": "El auto empieza a planear sobre agua. ¿Qué haces primero?",
+      "en": "The car begins hydroplaning. What should you do first?",
+      "options": [
+        {
+          "es": "Soltar gradualmente el acelerador y evitar movimientos bruscos",
+          "en": "Ease off the accelerator and avoid abrupt inputs"
+        },
+        {
+          "es": "Frenar a fondo",
+          "en": "Slam the brakes"
+        },
+        {
+          "es": "Girar bruscamente",
+          "en": "Steer sharply"
+        },
+        {
+          "es": "Acelerar",
+          "en": "Accelerate"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Los neumáticos pierden contacto con el pavimento; una maniobra brusca puede empeorar la pérdida de control.",
+        "en": "Tires lose contact with pavement; abrupt inputs can worsen loss of control."
+      },
+      "source": "47"
+    },
+    {
+      "id": 137,
+      "topic": 10,
+      "es": "Antes de conducir tras una nevada, ¿qué debes limpiar?",
+      "en": "Before driving after snowfall, what should you clear?",
+      "options": [
+        {
+          "es": "Solo un pequeño hueco del parabrisas",
+          "en": "Only a small windshield opening"
+        },
+        {
+          "es": "Solo la matrícula",
+          "en": "Only the plate"
+        },
+        {
+          "es": "Nieve y hielo de vidrios, luces y vehículo",
+          "en": "Snow and ice from windows, lights, and vehicle"
+        },
+        {
+          "es": "Nada si hace sol",
+          "en": "Nothing if sunny"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Mantén buena visibilidad y evita que nieve o hielo desprendido ponga en peligro a otros.",
+        "en": "Maintain visibility and prevent falling snow or ice from endangering others."
+      },
+      "source": "48"
+    },
+    {
+      "id": 138,
+      "topic": 10,
+      "es": "¿Por qué debes extremar cuidado en puentes durante heladas?",
+      "en": "Why should you be especially careful on bridges in freezing weather?",
+      "options": [
+        {
+          "es": "Porque nunca se congelan",
+          "en": "They never freeze"
+        },
+        {
+          "es": "Pueden congelarse antes que otras superficies",
+          "en": "They may freeze before other road surfaces"
+        },
+        {
+          "es": "Porque permiten más velocidad",
+          "en": "They allow higher speeds"
+        },
+        {
+          "es": "Porque no hay peatones",
+          "en": "There are no pedestrians"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Trata las superficies expuestas como posibles zonas de hielo.",
+        "en": "Treat exposed surfaces as potential ice hazards."
+      },
+      "source": "48"
+    },
+    {
+      "id": 139,
+      "topic": 10,
+      "es": "Te da sueño mientras manejas. ¿Cuál es la medida segura?",
+      "en": "You become drowsy while driving. What is the safe action?",
+      "options": [
+        {
+          "es": "Subir la música y seguir",
+          "en": "Turn up music and continue"
+        },
+        {
+          "es": "Abrir ventanas y seguir siempre",
+          "en": "Open windows and always continue"
+        },
+        {
+          "es": "Acelerar para llegar",
+          "en": "Speed up to arrive"
+        },
+        {
+          "es": "Parar en un lugar seguro y descansar",
+          "en": "Stop safely and rest"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Dormir lo suficiente es la protección real; los trucos no sustituyen el descanso.",
+        "en": "Enough sleep is the real protection; tricks do not replace rest."
+      },
+      "source": "46-47"
+    },
+    {
+      "id": 140,
+      "topic": 10,
+      "es": "La parte trasera derrapa a la izquierda. ¿Hacia dónde corriges inicialmente según el manual?",
+      "en": "The rear skids left. Which way does the manual say to steer initially?",
+      "options": [
+        {
+          "es": "Hacia la izquierda, en la dirección del derrape",
+          "en": "Left, in the skid direction"
+        },
+        {
+          "es": "Siempre a la derecha",
+          "en": "Always right"
+        },
+        {
+          "es": "Soltar el volante",
+          "en": "Release the wheel"
+        },
+        {
+          "es": "Girar de golpe en sentido opuesto",
+          "en": "Jerk the wheel the opposite way"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Suelta gradualmente el acelerador, evita frenar bruscamente y recupera el control con correcciones suaves.",
+        "en": "Ease off the accelerator, avoid abrupt braking, and regain control with smooth corrections."
+      },
+      "source": "123-124"
+    },
+    {
+      "id": 141,
+      "topic": 10,
+      "es": "Revienta un neumático mientras conduces. ¿Qué haces?",
+      "en": "A tire blows out while driving. What do you do?",
+      "options": [
+        {
+          "es": "Frenar bruscamente",
+          "en": "Brake hard"
+        },
+        {
+          "es": "Girar hacia otro carril",
+          "en": "Swerve into another lane"
+        },
+        {
+          "es": "Sujetar el volante, soltar suavemente el acelerador y controlar el auto",
+          "en": "Grip the wheel, ease off the gas, and control the car"
+        },
+        {
+          "es": "Soltar el volante",
+          "en": "Release the wheel"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Evita una frenada fuerte antes de controlar el vehículo; sal de la vía cuando sea seguro.",
+        "en": "Avoid hard braking before controlling the vehicle; leave the road when safe."
+      },
+      "source": "124"
+    },
+    {
+      "id": 142,
+      "topic": 10,
+      "es": "En una frenada con ABS funcionando, ¿debes bombear el pedal?",
+      "en": "During braking with functioning ABS, should you pump the pedal?",
+      "options": [
+        {
+          "es": "Sí, siempre",
+          "en": "Yes, always"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        },
+        {
+          "es": "Solo cada segundo",
+          "en": "Only each second"
+        },
+        {
+          "es": "Solo bajando una cuesta",
+          "en": "Only downhill"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "El manual indica no bombear los frenos antibloqueo.",
+        "en": "The manual says not to pump antilock brakes."
+      },
+      "source": "45,124"
+    },
+    {
+      "id": 143,
+      "topic": 10,
+      "es": "El acelerador se queda trabado. ¿Qué indica el manual?",
+      "en": "The accelerator sticks. What does the manual instruct?",
+      "options": [
+        {
+          "es": "Seguir acelerando",
+          "en": "Keep accelerating"
+        },
+        {
+          "es": "Poner parking en movimiento",
+          "en": "Shift to park while moving"
+        },
+        {
+          "es": "Quitar la llave al instante",
+          "en": "Remove the key immediately"
+        },
+        {
+          "es": "Poner neutral y frenar para reducir velocidad",
+          "en": "Shift to neutral and brake to slow"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Mantén atención en la vía y detente fuera de ella cuando sea seguro.",
+        "en": "Keep watching the road and pull off to stop when safe."
+      },
+      "source": "124"
+    },
+    {
+      "id": 144,
+      "topic": 10,
+      "es": "Se aproxima una ambulancia con sirena y luces. ¿Qué debes hacer?",
+      "en": "An ambulance approaches with siren and lights. What must you do?",
+      "options": [
+        {
+          "es": "Apartarte hacia la derecha y parar de forma segura",
+          "en": "Pull toward the right and stop safely"
+        },
+        {
+          "es": "Competir con ella",
+          "en": "Race it"
+        },
+        {
+          "es": "Seguirla de cerca",
+          "en": "Follow closely"
+        },
+        {
+          "es": "Parar dentro de la intersección",
+          "en": "Stop inside the intersection"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Cede el paso; si estás en la intersección, despeja primero para no bloquearla.",
+        "en": "Yield; if already in the intersection, clear it first to avoid blocking it."
+      },
+      "source": "120"
+    },
+    {
+      "id": 145,
+      "topic": 10,
+      "es": "Te acercas a una patrulla detenida con luces en una autopista de varios carriles. ¿Qué exige move over?",
+      "en": "You approach a stopped police vehicle with flashing lights on a multilane highway. What does move over require?",
+      "options": [
+        {
+          "es": "Mantener velocidad siempre",
+          "en": "Always maintain speed"
+        },
+        {
+          "es": "Parar junto al agente",
+          "en": "Stop beside the officer"
+        },
+        {
+          "es": "Reducir velocidad y cambiar a un carril alejado si es seguro",
+          "en": "Slow down and move to a lane away if safe"
+        },
+        {
+          "es": "Solo tocar bocina",
+          "en": "Only honk"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Si no puedes cambiar con seguridad, debes igualmente reducir a una velocidad razonable y segura.",
+        "en": "If a lane change is unsafe, you must still reduce to a reasonable, safe speed."
+      },
+      "source": "104"
+    },
+    {
+      "id": 146,
+      "topic": 10,
+      "es": "Se activan las luces rojas de un cruce ferroviario. ¿A qué distancia mínima del poste o barrera debes parar?",
+      "en": "Railroad crossing lights activate. How far before the light post or gate must you stop at minimum?",
+      "options": [
+        {
+          "es": "5 pies",
+          "en": "5 feet"
+        },
+        {
+          "es": "15 pies",
+          "en": "15 feet"
+        },
+        {
+          "es": "2 pies",
+          "en": "2 feet"
+        },
+        {
+          "es": "Sobre los rieles",
+          "en": "On the tracks"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Espera a que suba la barrera y dejen de parpadear las luces. Nunca rodees una barrera baja.",
+        "en": "Wait for the gate to rise and lights to stop flashing. Never drive around a lowered gate."
+      },
+      "source": "86-87"
+    },
+    {
+      "id": 147,
+      "topic": 10,
+      "es": "Tienes un choque pequeño y crees que no hubo daño. ¿Puedes irte sin detenerte ni identificarte?",
+      "en": "You have a minor collision and think there is no damage. May you leave without stopping or identifying yourself?",
+      "options": [
+        {
+          "es": "Sí",
+          "en": "Yes"
+        },
+        {
+          "es": "Solo si vas tarde",
+          "en": "Only if late"
+        },
+        {
+          "es": "Solo de noche",
+          "en": "Only at night"
+        },
+        {
+          "es": "No",
+          "en": "No"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "es": "Debes detenerte y cumplir las obligaciones de identificación e intercambio de información que correspondan.",
+        "en": "You must stop and meet applicable identification and information-exchange duties."
+      },
+      "source": "129-130"
+    },
+    {
+      "id": 148,
+      "topic": 10,
+      "es": "Un choque causa una lesión o $1.500 en daños. ¿En qué plazo debes presentar el reporte al RMV y policía local?",
+      "en": "A crash causes an injury or $1,500 in damage. Within what time must you report to RMV and local police?",
+      "options": [
+        {
+          "es": "Dentro de 5 días",
+          "en": "Within 5 days"
+        },
+        {
+          "es": "30 días",
+          "en": "30 days"
+        },
+        {
+          "es": "6 meses",
+          "en": "6 months"
+        },
+        {
+          "es": "Nunca",
+          "en": "Never"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "es": "Llamar a la policía no sustituye el reporte escrito exigido. También notifica a tu aseguradora.",
+        "en": "Calling police does not replace the required written report. Notify your insurer too."
+      },
+      "source": "129"
+    },
+    {
+      "id": 149,
+      "topic": 10,
+      "es": "En un choque sin lesiones, el vehículo puede moverse con seguridad. ¿Qué indica la ley de despeje?",
+      "en": "After a property-damage-only crash, the vehicle can be safely moved. What does the removal rule require?",
+      "options": [
+        {
+          "es": "Dejarlo bloqueando para fotos",
+          "en": "Leave it blocking for photos"
+        },
+        {
+          "es": "Esperar horas sin moverlo",
+          "en": "Wait for hours without moving"
+        },
+        {
+          "es": "Moverlo fuera del carril a un lugar seguro",
+          "en": "Move it out of the travel lane to safety"
+        },
+        {
+          "es": "Abandonarlo",
+          "en": "Abandon it"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "es": "Retirarlo del carril reduce el riesgo de otro choque; luego intercambia información.",
+        "en": "Clearing the lane reduces a secondary-crash risk; then exchange information."
+      },
+      "source": "129"
+    },
+    {
+      "id": 150,
+      "topic": 10,
+      "es": "Te detiene un policía. ¿Qué conducta recomienda el manual?",
+      "en": "Police stop you. What behavior does the manual recommend?",
+      "options": [
+        {
+          "es": "Salir corriendo del auto",
+          "en": "Run out of the car"
+        },
+        {
+          "es": "Mantener manos visibles y evitar movimientos repentinos",
+          "en": "Keep hands visible and avoid sudden movements"
+        },
+        {
+          "es": "Buscar debajo del asiento sin avisar",
+          "en": "Reach under the seat without warning"
+        },
+        {
+          "es": "Discutir mientras manejas",
+          "en": "Argue while driving"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "es": "Detente con seguridad, permanece en el vehículo salvo indicación y sigue las instrucciones del agente.",
+        "en": "Stop safely, remain in the vehicle unless directed otherwise, and follow the officer's instructions."
+      },
+      "source": "121-123"
+    }
+  ]
+}
